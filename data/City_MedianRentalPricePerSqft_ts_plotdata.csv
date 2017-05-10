@@ -1,0 +1,1807 @@
+"RegionName","HousingType","Time","Value"
+"Los Angeles","1 Bedroom",2010-02-01,NA
+"San Francisco","1 Bedroom",2010-02-01,NA
+"Seattle","1 Bedroom",2010-02-01,NA
+"Los Angeles","2 Bedroom",2010-02-01,NA
+"San Francisco","2 Bedroom",2010-02-01,NA
+"Los Angeles","3 Bedroom",2010-02-01,NA
+"San Francisco","3 Bedroom",2010-02-01,NA
+"Seattle","3 Bedroom",2010-02-01,NA
+"Los Angeles","4 Bedroom",2010-02-01,NA
+"Seattle","4 Bedroom",2010-02-01,NA
+"New York","All Homes",2010-02-01,NA
+"Los Angeles","All Homes",2010-02-01,NA
+"San Francisco","All Homes",2010-02-01,NA
+"Seattle","All Homes",2010-02-01,NA
+"New York","Condominium",2010-02-01,NA
+"Los Angeles","Condominium",2010-02-01,NA
+"San Francisco","Condominium",2010-02-01,NA
+"Seattle","Condominium",2010-02-01,NA
+"Los Angeles","Single Family Residence",2010-02-01,NA
+"San Francisco","Single Family Residence",2010-02-01,NA
+"Seattle","Single Family Residence",2010-02-01,NA
+"Los Angeles","1 Bedroom",2010-03-01,NA
+"San Francisco","1 Bedroom",2010-03-01,NA
+"Seattle","1 Bedroom",2010-03-01,NA
+"Los Angeles","2 Bedroom",2010-03-01,1.60422476296709
+"San Francisco","2 Bedroom",2010-03-01,NA
+"Los Angeles","3 Bedroom",2010-03-01,1.55356056718177
+"San Francisco","3 Bedroom",2010-03-01,NA
+"Seattle","3 Bedroom",2010-03-01,NA
+"Los Angeles","4 Bedroom",2010-03-01,1.48303308823529
+"Seattle","4 Bedroom",2010-03-01,NA
+"New York","All Homes",2010-03-01,NA
+"Los Angeles","All Homes",2010-03-01,1.65654055964133
+"San Francisco","All Homes",2010-03-01,NA
+"Seattle","All Homes",2010-03-01,NA
+"New York","Condominium",2010-03-01,NA
+"Los Angeles","Condominium",2010-03-01,1.59010600706714
+"San Francisco","Condominium",2010-03-01,NA
+"Seattle","Condominium",2010-03-01,NA
+"Los Angeles","Single Family Residence",2010-03-01,1.695
+"San Francisco","Single Family Residence",2010-03-01,NA
+"Seattle","Single Family Residence",2010-03-01,NA
+"Los Angeles","1 Bedroom",2010-04-01,NA
+"San Francisco","1 Bedroom",2010-04-01,NA
+"Seattle","1 Bedroom",2010-04-01,NA
+"Los Angeles","2 Bedroom",2010-04-01,1.69814255554157
+"San Francisco","2 Bedroom",2010-04-01,NA
+"Los Angeles","3 Bedroom",2010-04-01,1.65373874524532
+"San Francisco","3 Bedroom",2010-04-01,NA
+"Seattle","3 Bedroom",2010-04-01,NA
+"Los Angeles","4 Bedroom",2010-04-01,1.43013829279924
+"Seattle","4 Bedroom",2010-04-01,NA
+"New York","All Homes",2010-04-01,NA
+"Los Angeles","All Homes",2010-04-01,1.72272727272727
+"San Francisco","All Homes",2010-04-01,2.67576075550892
+"Seattle","All Homes",2010-04-01,1.42775923412684
+"New York","Condominium",2010-04-01,NA
+"Los Angeles","Condominium",2010-04-01,1.70113591741266
+"San Francisco","Condominium",2010-04-01,NA
+"Seattle","Condominium",2010-04-01,NA
+"Los Angeles","Single Family Residence",2010-04-01,1.73564753004005
+"San Francisco","Single Family Residence",2010-04-01,NA
+"Seattle","Single Family Residence",2010-04-01,NA
+"Los Angeles","1 Bedroom",2010-05-01,NA
+"San Francisco","1 Bedroom",2010-05-01,NA
+"Seattle","1 Bedroom",2010-05-01,NA
+"Los Angeles","2 Bedroom",2010-05-01,1.743264659271
+"San Francisco","2 Bedroom",2010-05-01,NA
+"Los Angeles","3 Bedroom",2010-05-01,1.65094339622642
+"San Francisco","3 Bedroom",2010-05-01,NA
+"Seattle","3 Bedroom",2010-05-01,NA
+"Los Angeles","4 Bedroom",2010-05-01,1.51378749686276
+"Seattle","4 Bedroom",2010-05-01,NA
+"New York","All Homes",2010-05-01,NA
+"Los Angeles","All Homes",2010-05-01,1.72343260188088
+"San Francisco","All Homes",2010-05-01,2.58620689655172
+"Seattle","All Homes",2010-05-01,1.37284859442938
+"New York","Condominium",2010-05-01,NA
+"Los Angeles","Condominium",2010-05-01,1.7035175879397
+"San Francisco","Condominium",2010-05-01,NA
+"Seattle","Condominium",2010-05-01,NA
+"Los Angeles","Single Family Residence",2010-05-01,1.73756740563212
+"San Francisco","Single Family Residence",2010-05-01,NA
+"Seattle","Single Family Residence",2010-05-01,NA
+"Los Angeles","1 Bedroom",2010-06-01,NA
+"San Francisco","1 Bedroom",2010-06-01,NA
+"Seattle","1 Bedroom",2010-06-01,NA
+"Los Angeles","2 Bedroom",2010-06-01,1.8031015687829
+"San Francisco","2 Bedroom",2010-06-01,NA
+"Los Angeles","3 Bedroom",2010-06-01,1.59853249475891
+"San Francisco","3 Bedroom",2010-06-01,NA
+"Seattle","3 Bedroom",2010-06-01,NA
+"Los Angeles","4 Bedroom",2010-06-01,1.45850366004373
+"Seattle","4 Bedroom",2010-06-01,NA
+"New York","All Homes",2010-06-01,NA
+"Los Angeles","All Homes",2010-06-01,1.71462294939298
+"San Francisco","All Homes",2010-06-01,2.61166135360946
+"Seattle","All Homes",2010-06-01,1.37484394506866
+"New York","Condominium",2010-06-01,NA
+"Los Angeles","Condominium",2010-06-01,1.70462633451957
+"San Francisco","Condominium",2010-06-01,NA
+"Seattle","Condominium",2010-06-01,NA
+"Los Angeles","Single Family Residence",2010-06-01,1.71875
+"San Francisco","Single Family Residence",2010-06-01,NA
+"Seattle","Single Family Residence",2010-06-01,NA
+"Los Angeles","1 Bedroom",2010-07-01,NA
+"San Francisco","1 Bedroom",2010-07-01,NA
+"Seattle","1 Bedroom",2010-07-01,NA
+"Los Angeles","2 Bedroom",2010-07-01,1.88811188811189
+"San Francisco","2 Bedroom",2010-07-01,NA
+"Los Angeles","3 Bedroom",2010-07-01,1.63511187607573
+"San Francisco","3 Bedroom",2010-07-01,NA
+"Seattle","3 Bedroom",2010-07-01,NA
+"Los Angeles","4 Bedroom",2010-07-01,1.4446076938238
+"Seattle","4 Bedroom",2010-07-01,NA
+"New York","All Homes",2010-07-01,NA
+"Los Angeles","All Homes",2010-07-01,1.74385251608232
+"San Francisco","All Homes",2010-07-01,2.61166135360946
+"Seattle","All Homes",2010-07-01,1.40151515151515
+"New York","Condominium",2010-07-01,NA
+"Los Angeles","Condominium",2010-07-01,1.73697270471464
+"San Francisco","Condominium",2010-07-01,NA
+"Seattle","Condominium",2010-07-01,NA
+"Los Angeles","Single Family Residence",2010-07-01,1.75595238095238
+"San Francisco","Single Family Residence",2010-07-01,NA
+"Seattle","Single Family Residence",2010-07-01,NA
+"Los Angeles","1 Bedroom",2010-08-01,NA
+"San Francisco","1 Bedroom",2010-08-01,NA
+"Seattle","1 Bedroom",2010-08-01,NA
+"Los Angeles","2 Bedroom",2010-08-01,1.95510499637944
+"San Francisco","2 Bedroom",2010-08-01,NA
+"Los Angeles","3 Bedroom",2010-08-01,1.74866702658234
+"San Francisco","3 Bedroom",2010-08-01,NA
+"Seattle","3 Bedroom",2010-08-01,NA
+"Los Angeles","4 Bedroom",2010-08-01,1.46842878120411
+"Seattle","4 Bedroom",2010-08-01,NA
+"New York","All Homes",2010-08-01,NA
+"Los Angeles","All Homes",2010-08-01,1.84376516254246
+"San Francisco","All Homes",2010-08-01,2.55220417633411
+"Seattle","All Homes",2010-08-01,1.47222222222222
+"New York","Condominium",2010-08-01,NA
+"Los Angeles","Condominium",2010-08-01,1.8508064516129
+"San Francisco","Condominium",2010-08-01,NA
+"Seattle","Condominium",2010-08-01,NA
+"Los Angeles","Single Family Residence",2010-08-01,1.83646591460456
+"San Francisco","Single Family Residence",2010-08-01,NA
+"Seattle","Single Family Residence",2010-08-01,NA
+"Los Angeles","1 Bedroom",2010-09-01,NA
+"San Francisco","1 Bedroom",2010-09-01,NA
+"Seattle","1 Bedroom",2010-09-01,NA
+"Los Angeles","2 Bedroom",2010-09-01,1.8508064516129
+"San Francisco","2 Bedroom",2010-09-01,NA
+"Los Angeles","3 Bedroom",2010-09-01,1.67059748427673
+"San Francisco","3 Bedroom",2010-09-01,NA
+"Seattle","3 Bedroom",2010-09-01,NA
+"Los Angeles","4 Bedroom",2010-09-01,1.45154962730483
+"Seattle","4 Bedroom",2010-09-01,NA
+"New York","All Homes",2010-09-01,NA
+"Los Angeles","All Homes",2010-09-01,1.81297270290323
+"San Francisco","All Homes",2010-09-01,2.61166135360946
+"Seattle","All Homes",2010-09-01,1.47222222222222
+"New York","Condominium",2010-09-01,NA
+"Los Angeles","Condominium",2010-09-01,1.8270944741533
+"San Francisco","Condominium",2010-09-01,NA
+"Seattle","Condominium",2010-09-01,NA
+"Los Angeles","Single Family Residence",2010-09-01,1.80240320427236
+"San Francisco","Single Family Residence",2010-09-01,NA
+"Seattle","Single Family Residence",2010-09-01,NA
+"Los Angeles","1 Bedroom",2010-10-01,NA
+"San Francisco","1 Bedroom",2010-10-01,NA
+"Seattle","1 Bedroom",2010-10-01,NA
+"Los Angeles","2 Bedroom",2010-10-01,1.84159849059742
+"San Francisco","2 Bedroom",2010-10-01,NA
+"Los Angeles","3 Bedroom",2010-10-01,1.68968488804832
+"San Francisco","3 Bedroom",2010-10-01,NA
+"Seattle","3 Bedroom",2010-10-01,NA
+"Los Angeles","4 Bedroom",2010-10-01,1.47579693034238
+"Seattle","4 Bedroom",2010-10-01,NA
+"New York","All Homes",2010-10-01,NA
+"Los Angeles","All Homes",2010-10-01,1.83407820785571
+"San Francisco","All Homes",2010-10-01,2.71855010660981
+"Seattle","All Homes",2010-10-01,1.48231579530452
+"New York","Condominium",2010-10-01,NA
+"Los Angeles","Condominium",2010-10-01,1.83893468611287
+"San Francisco","Condominium",2010-10-01,NA
+"Seattle","Condominium",2010-10-01,NA
+"Los Angeles","Single Family Residence",2010-10-01,1.81384248210024
+"San Francisco","Single Family Residence",2010-10-01,NA
+"Seattle","Single Family Residence",2010-10-01,NA
+"Los Angeles","1 Bedroom",2010-11-01,NA
+"San Francisco","1 Bedroom",2010-11-01,NA
+"Seattle","1 Bedroom",2010-11-01,NA
+"Los Angeles","2 Bedroom",2010-11-01,1.82094903774311
+"San Francisco","2 Bedroom",2010-11-01,NA
+"Los Angeles","3 Bedroom",2010-11-01,1.70731707317073
+"San Francisco","3 Bedroom",2010-11-01,NA
+"Seattle","3 Bedroom",2010-11-01,NA
+"Los Angeles","4 Bedroom",2010-11-01,1.46087240007824
+"Seattle","4 Bedroom",2010-11-01,NA
+"New York","All Homes",2010-11-01,NA
+"Los Angeles","All Homes",2010-11-01,1.81050090525045
+"San Francisco","All Homes",2010-11-01,2.85198555956679
+"Seattle","All Homes",2010-11-01,1.40625
+"New York","Condominium",2010-11-01,NA
+"Los Angeles","Condominium",2010-11-01,1.83374083129584
+"San Francisco","Condominium",2010-11-01,NA
+"Seattle","Condominium",2010-11-01,NA
+"Los Angeles","Single Family Residence",2010-11-01,1.78535814006496
+"San Francisco","Single Family Residence",2010-11-01,NA
+"Seattle","Single Family Residence",2010-11-01,NA
+"Los Angeles","1 Bedroom",2010-12-01,NA
+"San Francisco","1 Bedroom",2010-12-01,NA
+"Seattle","1 Bedroom",2010-12-01,NA
+"Los Angeles","2 Bedroom",2010-12-01,1.85064935064935
+"San Francisco","2 Bedroom",2010-12-01,2.63474263589526
+"Los Angeles","3 Bedroom",2010-12-01,1.69631858547741
+"San Francisco","3 Bedroom",2010-12-01,NA
+"Seattle","3 Bedroom",2010-12-01,NA
+"Los Angeles","4 Bedroom",2010-12-01,1.59340729826413
+"Seattle","4 Bedroom",2010-12-01,NA
+"New York","All Homes",2010-12-01,NA
+"Los Angeles","All Homes",2010-12-01,1.85346639644105
+"San Francisco","All Homes",2010-12-01,2.86831812255541
+"Seattle","All Homes",2010-12-01,1.21841503267974
+"New York","Condominium",2010-12-01,NA
+"Los Angeles","Condominium",2010-12-01,1.82965299684543
+"San Francisco","Condominium",2010-12-01,2.74583333333333
+"Seattle","Condominium",2010-12-01,NA
+"Los Angeles","Single Family Residence",2010-12-01,1.89878234398782
+"San Francisco","Single Family Residence",2010-12-01,NA
+"Seattle","Single Family Residence",2010-12-01,NA
+"Los Angeles","1 Bedroom",2011-01-01,NA
+"San Francisco","1 Bedroom",2011-01-01,NA
+"Seattle","1 Bedroom",2011-01-01,1.66666666666667
+"Los Angeles","2 Bedroom",2011-01-01,1.84352517985612
+"San Francisco","2 Bedroom",2011-01-01,2.50287686996548
+"Los Angeles","3 Bedroom",2011-01-01,1.72199951977348
+"San Francisco","3 Bedroom",2011-01-01,NA
+"Seattle","3 Bedroom",2011-01-01,1.121875
+"Los Angeles","4 Bedroom",2011-01-01,1.46851071006915
+"Seattle","4 Bedroom",2011-01-01,NA
+"New York","All Homes",2011-01-01,NA
+"Los Angeles","All Homes",2011-01-01,1.87421875
+"San Francisco","All Homes",2011-01-01,2.61566296200569
+"Seattle","All Homes",2011-01-01,1.34121621621622
+"New York","Condominium",2011-01-01,NA
+"Los Angeles","Condominium",2011-01-01,1.86807186765955
+"San Francisco","Condominium",2011-01-01,2.81413612565445
+"Seattle","Condominium",2011-01-01,1.5974071256498
+"Los Angeles","Single Family Residence",2011-01-01,1.87793427230047
+"San Francisco","Single Family Residence",2011-01-01,NA
+"Seattle","Single Family Residence",2011-01-01,NA
+"Los Angeles","1 Bedroom",2011-02-01,1.99305019305019
+"San Francisco","1 Bedroom",2011-02-01,2.79220779220779
+"Seattle","1 Bedroom",2011-02-01,1.65880503144654
+"Los Angeles","2 Bedroom",2011-02-01,1.83439856788913
+"San Francisco","2 Bedroom",2011-02-01,2.42798353909465
+"Los Angeles","3 Bedroom",2011-02-01,1.773604590506
+"San Francisco","3 Bedroom",2011-02-01,NA
+"Seattle","3 Bedroom",2011-02-01,1.12893081761006
+"Los Angeles","4 Bedroom",2011-02-01,1.53636071168802
+"Seattle","4 Bedroom",2011-02-01,NA
+"New York","All Homes",2011-02-01,NA
+"Los Angeles","All Homes",2011-02-01,1.89189189189189
+"San Francisco","All Homes",2011-02-01,2.47850720532085
+"Seattle","All Homes",2011-02-01,1.34459459459459
+"New York","Condominium",2011-02-01,NA
+"Los Angeles","Condominium",2011-02-01,1.85110722610723
+"San Francisco","Condominium",2011-02-01,2.87729057591623
+"Seattle","Condominium",2011-02-01,1.63062743707905
+"Los Angeles","Single Family Residence",2011-02-01,1.91535935789858
+"San Francisco","Single Family Residence",2011-02-01,NA
+"Seattle","Single Family Residence",2011-02-01,NA
+"Los Angeles","1 Bedroom",2011-03-01,2.01754385964912
+"San Francisco","1 Bedroom",2011-03-01,2.79220779220779
+"Seattle","1 Bedroom",2011-03-01,1.66908563134978
+"Los Angeles","2 Bedroom",2011-03-01,1.79487506374299
+"San Francisco","2 Bedroom",2011-03-01,2.39880952380952
+"Los Angeles","3 Bedroom",2011-03-01,1.73141127540862
+"San Francisco","3 Bedroom",2011-03-01,NA
+"Seattle","3 Bedroom",2011-03-01,1.10887096774194
+"Los Angeles","4 Bedroom",2011-03-01,1.47439199422372
+"Seattle","4 Bedroom",2011-03-01,0.952205882352941
+"New York","All Homes",2011-03-01,NA
+"Los Angeles","All Homes",2011-03-01,1.8411356409002
+"San Francisco","All Homes",2011-03-01,2.52413487133984
+"Seattle","All Homes",2011-03-01,1.39784946236559
+"New York","Condominium",2011-03-01,NA
+"Los Angeles","Condominium",2011-03-01,1.79247205913905
+"San Francisco","Condominium",2011-03-01,2.92622324159021
+"Seattle","Condominium",2011-03-01,1.70195205479452
+"Los Angeles","Single Family Residence",2011-03-01,1.875
+"San Francisco","Single Family Residence",2011-03-01,NA
+"Seattle","Single Family Residence",2011-03-01,NA
+"Los Angeles","1 Bedroom",2011-04-01,2.05610902255639
+"San Francisco","1 Bedroom",2011-04-01,2.80435505319149
+"Seattle","1 Bedroom",2011-04-01,1.66908563134978
+"Los Angeles","2 Bedroom",2011-04-01,1.8215811965812
+"San Francisco","2 Bedroom",2011-04-01,2.64029278494249
+"Los Angeles","3 Bedroom",2011-04-01,1.73184357541899
+"San Francisco","3 Bedroom",2011-04-01,NA
+"Seattle","3 Bedroom",2011-04-01,1.09090909090909
+"Los Angeles","4 Bedroom",2011-04-01,1.49136577708006
+"Seattle","4 Bedroom",2011-04-01,0.934286289334593
+"New York","All Homes",2011-04-01,NA
+"Los Angeles","All Homes",2011-04-01,1.83887614955887
+"San Francisco","All Homes",2011-04-01,2.69784172661871
+"Seattle","All Homes",2011-04-01,1.36501516683519
+"New York","Condominium",2011-04-01,NA
+"Los Angeles","Condominium",2011-04-01,1.79060356393459
+"San Francisco","Condominium",2011-04-01,3.02113275184194
+"Seattle","Condominium",2011-04-01,1.68661971830986
+"Los Angeles","Single Family Residence",2011-04-01,1.88136125613078
+"San Francisco","Single Family Residence",2011-04-01,NA
+"Seattle","Single Family Residence",2011-04-01,NA
+"Los Angeles","1 Bedroom",2011-05-01,2.06918259531792
+"San Francisco","1 Bedroom",2011-05-01,2.93752285191956
+"Seattle","1 Bedroom",2011-05-01,1.74029451137885
+"Los Angeles","2 Bedroom",2011-05-01,1.88020304568528
+"San Francisco","2 Bedroom",2011-05-01,2.59918337045286
+"Los Angeles","3 Bedroom",2011-05-01,1.780028998779
+"San Francisco","3 Bedroom",2011-05-01,NA
+"Seattle","3 Bedroom",2011-05-01,1.21393897364771
+"Los Angeles","4 Bedroom",2011-05-01,1.4975
+"Seattle","4 Bedroom",2011-05-01,0.998484848484849
+"New York","All Homes",2011-05-01,NA
+"Los Angeles","All Homes",2011-05-01,1.88750593779762
+"San Francisco","All Homes",2011-05-01,2.79344262295082
+"Seattle","All Homes",2011-05-01,1.38474295190713
+"New York","Condominium",2011-05-01,NA
+"Los Angeles","Condominium",2011-05-01,1.84241791474654
+"San Francisco","Condominium",2011-05-01,3.01187600644122
+"Seattle","Condominium",2011-05-01,1.68918918918919
+"Los Angeles","Single Family Residence",2011-05-01,1.91647012578616
+"San Francisco","Single Family Residence",2011-05-01,NA
+"Seattle","Single Family Residence",2011-05-01,NA
+"Los Angeles","1 Bedroom",2011-06-01,2.05128205128205
+"San Francisco","1 Bedroom",2011-06-01,3.16609195402299
+"Seattle","1 Bedroom",2011-06-01,1.70486316385851
+"Los Angeles","2 Bedroom",2011-06-01,1.9
+"San Francisco","2 Bedroom",2011-06-01,2.625
+"Los Angeles","3 Bedroom",2011-06-01,1.75972334610059
+"San Francisco","3 Bedroom",2011-06-01,NA
+"Seattle","3 Bedroom",2011-06-01,1.27028240873814
+"Los Angeles","4 Bedroom",2011-06-01,1.57790667018191
+"Seattle","4 Bedroom",2011-06-01,1.04792686658507
+"New York","All Homes",2011-06-01,NA
+"Los Angeles","All Homes",2011-06-01,1.9
+"San Francisco","All Homes",2011-06-01,2.8117523923445
+"Seattle","All Homes",2011-06-01,1.36605201863354
+"New York","Condominium",2011-06-01,NA
+"Los Angeles","Condominium",2011-06-01,1.87723480333731
+"San Francisco","Condominium",2011-06-01,3.07308970099668
+"Seattle","Condominium",2011-06-01,1.7037037037037
+"Los Angeles","Single Family Residence",2011-06-01,1.91613679245283
+"San Francisco","Single Family Residence",2011-06-01,NA
+"Seattle","Single Family Residence",2011-06-01,NA
+"Los Angeles","1 Bedroom",2011-07-01,1.94295105864015
+"San Francisco","1 Bedroom",2011-07-01,3.14859523555176
+"Seattle","1 Bedroom",2011-07-01,1.68
+"Los Angeles","2 Bedroom",2011-07-01,1.875
+"San Francisco","2 Bedroom",2011-07-01,2.47619047619048
+"Los Angeles","3 Bedroom",2011-07-01,1.75324675324675
+"San Francisco","3 Bedroom",2011-07-01,NA
+"Seattle","3 Bedroom",2011-07-01,1.25
+"Los Angeles","4 Bedroom",2011-07-01,1.49452009299236
+"Seattle","4 Bedroom",2011-07-01,1.05022831050228
+"New York","All Homes",2011-07-01,NA
+"Los Angeles","All Homes",2011-07-01,1.85314685314685
+"San Francisco","All Homes",2011-07-01,2.7436553030303
+"Seattle","All Homes",2011-07-01,1.3542471042471
+"New York","Condominium",2011-07-01,NA
+"Los Angeles","Condominium",2011-07-01,1.85840707964602
+"San Francisco","Condominium",2011-07-01,3.22952758233312
+"Seattle","Condominium",2011-07-01,1.65927260921376
+"Los Angeles","Single Family Residence",2011-07-01,1.84868072663643
+"San Francisco","Single Family Residence",2011-07-01,NA
+"Seattle","Single Family Residence",2011-07-01,NA
+"Los Angeles","1 Bedroom",2011-08-01,1.91041666666667
+"San Francisco","1 Bedroom",2011-08-01,3.1362186619196
+"Seattle","1 Bedroom",2011-08-01,1.79555997894321
+"Los Angeles","2 Bedroom",2011-08-01,1.84049079754601
+"San Francisco","2 Bedroom",2011-08-01,2.5
+"Los Angeles","3 Bedroom",2011-08-01,1.725
+"San Francisco","3 Bedroom",2011-08-01,NA
+"Seattle","3 Bedroom",2011-08-01,1.24678387650086
+"Los Angeles","4 Bedroom",2011-08-01,1.50634233345331
+"Seattle","4 Bedroom",2011-08-01,1.03635610686288
+"New York","All Homes",2011-08-01,NA
+"Los Angeles","All Homes",2011-08-01,1.82121685883656
+"San Francisco","All Homes",2011-08-01,2.88888888888889
+"Seattle","All Homes",2011-08-01,1.43043154761905
+"New York","Condominium",2011-08-01,NA
+"Los Angeles","Condominium",2011-08-01,1.84534270650264
+"San Francisco","Condominium",2011-08-01,3.22828784119107
+"Seattle","Condominium",2011-08-01,1.77070063694268
+"Los Angeles","Single Family Residence",2011-08-01,1.78967813540511
+"San Francisco","Single Family Residence",2011-08-01,NA
+"Seattle","Single Family Residence",2011-08-01,NA
+"Los Angeles","1 Bedroom",2011-09-01,1.85393258426966
+"San Francisco","1 Bedroom",2011-09-01,3.26688815060908
+"Seattle","1 Bedroom",2011-09-01,1.72727272727273
+"Los Angeles","2 Bedroom",2011-09-01,1.84864532019704
+"San Francisco","2 Bedroom",2011-09-01,2.93706293706294
+"Los Angeles","3 Bedroom",2011-09-01,1.70073589533933
+"San Francisco","3 Bedroom",2011-09-01,NA
+"Seattle","3 Bedroom",2011-09-01,1.25
+"Los Angeles","4 Bedroom",2011-09-01,1.4727582292849
+"Seattle","4 Bedroom",2011-09-01,1.04477611940298
+"New York","All Homes",2011-09-01,NA
+"Los Angeles","All Homes",2011-09-01,1.8
+"San Francisco","All Homes",2011-09-01,2.90809889173061
+"Seattle","All Homes",2011-09-01,1.44913793103448
+"New York","Condominium",2011-09-01,NA
+"Los Angeles","Condominium",2011-09-01,1.80020060180542
+"San Francisco","Condominium",2011-09-01,3.29436769394261
+"Seattle","Condominium",2011-09-01,1.81026671069044
+"Los Angeles","Single Family Residence",2011-09-01,1.79881869542886
+"San Francisco","Single Family Residence",2011-09-01,NA
+"Seattle","Single Family Residence",2011-09-01,NA
+"Los Angeles","1 Bedroom",2011-10-01,1.78759398496241
+"San Francisco","1 Bedroom",2011-10-01,3.56174342775627
+"Seattle","1 Bedroom",2011-10-01,1.71484822451317
+"Los Angeles","2 Bedroom",2011-10-01,1.79347826086957
+"San Francisco","2 Bedroom",2011-10-01,2.94117647058824
+"Los Angeles","3 Bedroom",2011-10-01,1.6957852639099
+"San Francisco","3 Bedroom",2011-10-01,NA
+"Seattle","3 Bedroom",2011-10-01,1.22887073863636
+"Los Angeles","4 Bedroom",2011-10-01,1.52793469165834
+"Seattle","4 Bedroom",2011-10-01,1.05105105105105
+"New York","All Homes",2011-10-01,NA
+"Los Angeles","All Homes",2011-10-01,1.80756395995551
+"San Francisco","All Homes",2011-10-01,2.96081266052506
+"Seattle","All Homes",2011-10-01,1.44666746775615
+"New York","Condominium",2011-10-01,NA
+"Los Angeles","Condominium",2011-10-01,1.81103770988164
+"San Francisco","Condominium",2011-10-01,3.46189464509451
+"Seattle","Condominium",2011-10-01,1.73063055736283
+"Los Angeles","Single Family Residence",2011-10-01,1.80747955172168
+"San Francisco","Single Family Residence",2011-10-01,NA
+"Seattle","Single Family Residence",2011-10-01,NA
+"Los Angeles","1 Bedroom",2011-11-01,1.85289221806076
+"San Francisco","1 Bedroom",2011-11-01,3.53378326411321
+"Seattle","1 Bedroom",2011-11-01,1.77815063385533
+"Los Angeles","2 Bedroom",2011-11-01,1.79545454545455
+"San Francisco","2 Bedroom",2011-11-01,2.94657549375104
+"Los Angeles","3 Bedroom",2011-11-01,1.72
+"San Francisco","3 Bedroom",2011-11-01,NA
+"Seattle","3 Bedroom",2011-11-01,1.21808943089431
+"Los Angeles","4 Bedroom",2011-11-01,1.60198476805908
+"Seattle","4 Bedroom",2011-11-01,1.03703703703704
+"New York","All Homes",2011-11-01,NA
+"Los Angeles","All Homes",2011-11-01,1.81623931623932
+"San Francisco","All Homes",2011-11-01,3.04184191896056
+"Seattle","All Homes",2011-11-01,1.46995192307692
+"New York","Condominium",2011-11-01,NA
+"Los Angeles","Condominium",2011-11-01,1.8495
+"San Francisco","Condominium",2011-11-01,3.48557692307692
+"Seattle","Condominium",2011-11-01,1.75130208333333
+"Los Angeles","Single Family Residence",2011-11-01,1.78896636633026
+"San Francisco","Single Family Residence",2011-11-01,NA
+"Seattle","Single Family Residence",2011-11-01,NA
+"Los Angeles","1 Bedroom",2011-12-01,1.86363636363636
+"San Francisco","1 Bedroom",2011-12-01,3.32142857142857
+"Seattle","1 Bedroom",2011-12-01,1.72858029801325
+"Los Angeles","2 Bedroom",2011-12-01,1.78474903474903
+"San Francisco","2 Bedroom",2011-12-01,2.96206896551724
+"Los Angeles","3 Bedroom",2011-12-01,1.72004842287159
+"San Francisco","3 Bedroom",2011-12-01,NA
+"Seattle","3 Bedroom",2011-12-01,1.19444444444444
+"Los Angeles","4 Bedroom",2011-12-01,1.53096729297147
+"Seattle","4 Bedroom",2011-12-01,1.00502512562814
+"New York","All Homes",2011-12-01,NA
+"Los Angeles","All Homes",2011-12-01,1.79166666666667
+"San Francisco","All Homes",2011-12-01,3.24957391508128
+"Seattle","All Homes",2011-12-01,1.44444444444444
+"New York","Condominium",2011-12-01,NA
+"Los Angeles","Condominium",2011-12-01,1.81286549707602
+"San Francisco","Condominium",2011-12-01,3.55811889973381
+"Seattle","Condominium",2011-12-01,1.73563218390805
+"Los Angeles","Single Family Residence",2011-12-01,1.77708410378185
+"San Francisco","Single Family Residence",2011-12-01,NA
+"Seattle","Single Family Residence",2011-12-01,NA
+"Los Angeles","1 Bedroom",2012-01-01,1.9790454016298
+"San Francisco","1 Bedroom",2012-01-01,3.56207255426702
+"Seattle","1 Bedroom",2012-01-01,1.74853801169591
+"Los Angeles","2 Bedroom",2012-01-01,1.81727272727273
+"San Francisco","2 Bedroom",2012-01-01,3.15709994508512
+"Los Angeles","3 Bedroom",2012-01-01,1.76108859619498
+"San Francisco","3 Bedroom",2012-01-01,NA
+"Seattle","3 Bedroom",2012-01-01,1.23333333333333
+"Los Angeles","4 Bedroom",2012-01-01,1.55654137451483
+"Seattle","4 Bedroom",2012-01-01,0.977941176470588
+"New York","All Homes",2012-01-01,NA
+"Los Angeles","All Homes",2012-01-01,1.81432610744581
+"San Francisco","All Homes",2012-01-01,3.20997586484312
+"Seattle","All Homes",2012-01-01,1.48377639351933
+"New York","Condominium",2012-01-01,NA
+"Los Angeles","Condominium",2012-01-01,1.79736751152074
+"San Francisco","Condominium",2012-01-01,3.39726723465865
+"Seattle","Condominium",2012-01-01,1.68461538461538
+"Los Angeles","Single Family Residence",2012-01-01,1.81951793062904
+"San Francisco","Single Family Residence",2012-01-01,NA
+"Seattle","Single Family Residence",2012-01-01,NA
+"Los Angeles","1 Bedroom",2012-02-01,2.06299603174603
+"San Francisco","1 Bedroom",2012-02-01,3.67063008130081
+"Seattle","1 Bedroom",2012-02-01,1.80299335306101
+"Los Angeles","2 Bedroom",2012-02-01,1.90053285968028
+"San Francisco","2 Bedroom",2012-02-01,3.09349672580365
+"Los Angeles","3 Bedroom",2012-02-01,1.74501424501424
+"San Francisco","3 Bedroom",2012-02-01,NA
+"Seattle","3 Bedroom",2012-02-01,1.27718676122931
+"Los Angeles","4 Bedroom",2012-02-01,1.57776108189331
+"Seattle","4 Bedroom",2012-02-01,1.05314685314685
+"New York","All Homes",2012-02-01,NA
+"Los Angeles","All Homes",2012-02-01,1.82553685653366
+"San Francisco","All Homes",2012-02-01,2.96581547756189
+"Seattle","All Homes",2012-02-01,1.50602409638554
+"New York","Condominium",2012-02-01,NA
+"Los Angeles","Condominium",2012-02-01,1.88421052631579
+"San Francisco","Condominium",2012-02-01,3.21428571428571
+"Seattle","Condominium",2012-02-01,1.66666666666667
+"Los Angeles","Single Family Residence",2012-02-01,1.78947368421053
+"San Francisco","Single Family Residence",2012-02-01,NA
+"Seattle","Single Family Residence",2012-02-01,NA
+"Los Angeles","1 Bedroom",2012-03-01,2.1513353115727
+"San Francisco","1 Bedroom",2012-03-01,3.5291519434629
+"Seattle","1 Bedroom",2012-03-01,1.84375
+"Los Angeles","2 Bedroom",2012-03-01,1.91143790849673
+"San Francisco","2 Bedroom",2012-03-01,3.14696734059098
+"Los Angeles","3 Bedroom",2012-03-01,1.76029962546816
+"San Francisco","3 Bedroom",2012-03-01,NA
+"Seattle","3 Bedroom",2012-03-01,1.27996031746032
+"Los Angeles","4 Bedroom",2012-03-01,1.53660764758136
+"Seattle","4 Bedroom",2012-03-01,1.18148148148148
+"New York","All Homes",2012-03-01,NA
+"Los Angeles","All Homes",2012-03-01,1.8495
+"San Francisco","All Homes",2012-03-01,2.98698884758364
+"Seattle","All Homes",2012-03-01,1.47777777777778
+"New York","Condominium",2012-03-01,NA
+"Los Angeles","Condominium",2012-03-01,1.88811188811189
+"San Francisco","Condominium",2012-03-01,3.25131810193322
+"Seattle","Condominium",2012-03-01,1.64285714285714
+"Los Angeles","Single Family Residence",2012-03-01,1.82611209393322
+"San Francisco","Single Family Residence",2012-03-01,NA
+"Seattle","Single Family Residence",2012-03-01,NA
+"Los Angeles","1 Bedroom",2012-04-01,2.13175024108004
+"San Francisco","1 Bedroom",2012-04-01,3.53019869411053
+"Seattle","1 Bedroom",2012-04-01,1.8768063583815
+"Los Angeles","2 Bedroom",2012-04-01,1.90551013734467
+"San Francisco","2 Bedroom",2012-04-01,3
+"Los Angeles","3 Bedroom",2012-04-01,1.73328309469982
+"San Francisco","3 Bedroom",2012-04-01,NA
+"Seattle","3 Bedroom",2012-04-01,1.27027027027027
+"Los Angeles","4 Bedroom",2012-04-01,1.52045331851694
+"Seattle","4 Bedroom",2012-04-01,1.20454545454545
+"New York","All Homes",2012-04-01,NA
+"Los Angeles","All Homes",2012-04-01,1.8258939993908
+"San Francisco","All Homes",2012-04-01,2.85826155050901
+"Seattle","All Homes",2012-04-01,1.47058823529412
+"New York","Condominium",2012-04-01,NA
+"Los Angeles","Condominium",2012-04-01,1.87545520757465
+"San Francisco","Condominium",2012-04-01,3.23496027241771
+"Seattle","Condominium",2012-04-01,1.69376693766938
+"Los Angeles","Single Family Residence",2012-04-01,1.79004854368932
+"San Francisco","Single Family Residence",2012-04-01,NA
+"Seattle","Single Family Residence",2012-04-01,NA
+"Los Angeles","1 Bedroom",2012-05-01,2.14574468085106
+"San Francisco","1 Bedroom",2012-05-01,3.62072784810127
+"Seattle","1 Bedroom",2012-05-01,1.86472819216182
+"Los Angeles","2 Bedroom",2012-05-01,1.91666666666667
+"San Francisco","2 Bedroom",2012-05-01,3
+"Los Angeles","3 Bedroom",2012-05-01,1.77951388888889
+"San Francisco","3 Bedroom",2012-05-01,NA
+"Seattle","3 Bedroom",2012-05-01,1.28214285714286
+"Los Angeles","4 Bedroom",2012-05-01,1.5281173594132
+"Seattle","4 Bedroom",2012-05-01,1.125
+"New York","All Homes",2012-05-01,NA
+"Los Angeles","All Homes",2012-05-01,1.83333333333333
+"San Francisco","All Homes",2012-05-01,2.97397769516729
+"Seattle","All Homes",2012-05-01,1.45181522532687
+"New York","Condominium",2012-05-01,NA
+"Los Angeles","Condominium",2012-05-01,1.85840707964602
+"San Francisco","Condominium",2012-05-01,3.26852741147403
+"Seattle","Condominium",2012-05-01,1.68918918918919
+"Los Angeles","Single Family Residence",2012-05-01,1.82186234817814
+"San Francisco","Single Family Residence",2012-05-01,NA
+"Seattle","Single Family Residence",2012-05-01,NA
+"Los Angeles","1 Bedroom",2012-06-01,2.12903225806452
+"San Francisco","1 Bedroom",2012-06-01,3.64091658710181
+"Seattle","1 Bedroom",2012-06-01,1.98583569405099
+"Los Angeles","2 Bedroom",2012-06-01,1.91055731364276
+"San Francisco","2 Bedroom",2012-06-01,3.18181818181818
+"Los Angeles","3 Bedroom",2012-06-01,1.78875638841567
+"San Francisco","3 Bedroom",2012-06-01,NA
+"Seattle","3 Bedroom",2012-06-01,1.30555555555556
+"Los Angeles","4 Bedroom",2012-06-01,1.52996356108723
+"Seattle","4 Bedroom",2012-06-01,1.17021276595745
+"New York","All Homes",2012-06-01,NA
+"Los Angeles","All Homes",2012-06-01,1.83333333333333
+"San Francisco","All Homes",2012-06-01,3.03154495777447
+"Seattle","All Homes",2012-06-01,1.51351078846542
+"New York","Condominium",2012-06-01,NA
+"Los Angeles","Condominium",2012-06-01,1.83968117719191
+"San Francisco","Condominium",2012-06-01,3.36666666666667
+"Seattle","Condominium",2012-06-01,1.71349749202006
+"Los Angeles","Single Family Residence",2012-06-01,1.82699478001491
+"San Francisco","Single Family Residence",2012-06-01,NA
+"Seattle","Single Family Residence",2012-06-01,NA
+"Los Angeles","1 Bedroom",2012-07-01,2.1
+"San Francisco","1 Bedroom",2012-07-01,3.6962962962963
+"Seattle","1 Bedroom",2012-07-01,1.94931773879142
+"Los Angeles","2 Bedroom",2012-07-01,1.91341539597354
+"San Francisco","2 Bedroom",2012-07-01,3.30548068283917
+"Los Angeles","3 Bedroom",2012-07-01,1.70051138049905
+"San Francisco","3 Bedroom",2012-07-01,NA
+"Seattle","3 Bedroom",2012-07-01,1.32530120481928
+"Los Angeles","4 Bedroom",2012-07-01,1.48309426229508
+"Seattle","4 Bedroom",2012-07-01,1.11745341614907
+"New York","All Homes",2012-07-01,NA
+"Los Angeles","All Homes",2012-07-01,1.78469241773963
+"San Francisco","All Homes",2012-07-01,3.11470588235294
+"Seattle","All Homes",2012-07-01,1.48767150526944
+"New York","Condominium",2012-07-01,NA
+"Los Angeles","Condominium",2012-07-01,1.83322798145807
+"San Francisco","Condominium",2012-07-01,3.50789297894034
+"Seattle","Condominium",2012-07-01,1.66666666666667
+"Los Angeles","Single Family Residence",2012-07-01,1.73467161248091
+"San Francisco","Single Family Residence",2012-07-01,NA
+"Seattle","Single Family Residence",2012-07-01,NA
+"Los Angeles","1 Bedroom",2012-08-01,2.1027027027027
+"San Francisco","1 Bedroom",2012-08-01,3.62529274004684
+"Seattle","1 Bedroom",2012-08-01,1.99637023593466
+"Los Angeles","2 Bedroom",2012-08-01,1.90762978930455
+"San Francisco","2 Bedroom",2012-08-01,3.2
+"Los Angeles","3 Bedroom",2012-08-01,1.70927601809955
+"San Francisco","3 Bedroom",2012-08-01,NA
+"Seattle","3 Bedroom",2012-08-01,1.2922966162707
+"Los Angeles","4 Bedroom",2012-08-01,1.46666666666667
+"Seattle","4 Bedroom",2012-08-01,1.15511551155116
+"New York","All Homes",2012-08-01,NA
+"Los Angeles","All Homes",2012-08-01,1.78366772467406
+"San Francisco","All Homes",2012-08-01,3.03390756872182
+"Seattle","All Homes",2012-08-01,1.48649875492841
+"New York","Condominium",2012-08-01,NA
+"Los Angeles","Condominium",2012-08-01,1.85373501369048
+"San Francisco","Condominium",2012-08-01,3.42857142857143
+"Seattle","Condominium",2012-08-01,1.72432432432432
+"Los Angeles","Single Family Residence",2012-08-01,1.71409710462073
+"San Francisco","Single Family Residence",2012-08-01,NA
+"Seattle","Single Family Residence",2012-08-01,NA
+"Los Angeles","1 Bedroom",2012-09-01,2.13603896103896
+"San Francisco","1 Bedroom",2012-09-01,3.66984126984127
+"Seattle","1 Bedroom",2012-09-01,2.06333973128599
+"Los Angeles","2 Bedroom",2012-09-01,1.94255111976631
+"San Francisco","2 Bedroom",2012-09-01,3.27563738645747
+"Los Angeles","3 Bedroom",2012-09-01,1.70058661077857
+"San Francisco","3 Bedroom",2012-09-01,NA
+"Seattle","3 Bedroom",2012-09-01,1.26179346427652
+"Los Angeles","4 Bedroom",2012-09-01,1.5234375
+"Seattle","4 Bedroom",2012-09-01,1.13928571428571
+"New York","All Homes",2012-09-01,NA
+"Los Angeles","All Homes",2012-09-01,1.82098765432099
+"San Francisco","All Homes",2012-09-01,2.95602273463034
+"Seattle","All Homes",2012-09-01,1.50391221957332
+"New York","Condominium",2012-09-01,NA
+"Los Angeles","Condominium",2012-09-01,1.9180470793374
+"San Francisco","Condominium",2012-09-01,3.33930704898447
+"Seattle","Condominium",2012-09-01,1.81978421108856
+"Los Angeles","Single Family Residence",2012-09-01,1.75749731366611
+"San Francisco","Single Family Residence",2012-09-01,NA
+"Seattle","Single Family Residence",2012-09-01,NA
+"Los Angeles","1 Bedroom",2012-10-01,2.11805555555556
+"San Francisco","1 Bedroom",2012-10-01,3.73198566460862
+"Seattle","1 Bedroom",2012-10-01,2.12889758253997
+"Los Angeles","2 Bedroom",2012-10-01,1.92615658362989
+"San Francisco","2 Bedroom",2012-10-01,3.2
+"Los Angeles","3 Bedroom",2012-10-01,1.66773572803079
+"San Francisco","3 Bedroom",2012-10-01,NA
+"Seattle","3 Bedroom",2012-10-01,1.29404956427015
+"Los Angeles","4 Bedroom",2012-10-01,1.44267274107821
+"Seattle","4 Bedroom",2012-10-01,1.12372510927635
+"New York","All Homes",2012-10-01,NA
+"Los Angeles","All Homes",2012-10-01,1.79968701095462
+"San Francisco","All Homes",2012-10-01,3.09734513274336
+"Seattle","All Homes",2012-10-01,1.63463393638968
+"New York","Condominium",2012-10-01,NA
+"Los Angeles","Condominium",2012-10-01,1.85136612021858
+"San Francisco","Condominium",2012-10-01,3.44444444444444
+"Seattle","Condominium",2012-10-01,1.85185185185185
+"Los Angeles","Single Family Residence",2012-10-01,1.75140004307825
+"San Francisco","Single Family Residence",2012-10-01,NA
+"Seattle","Single Family Residence",2012-10-01,NA
+"Los Angeles","1 Bedroom",2012-11-01,2.09677419354839
+"San Francisco","1 Bedroom",2012-11-01,3.69088659464637
+"Seattle","1 Bedroom",2012-11-01,2.13315750254922
+"Los Angeles","2 Bedroom",2012-11-01,1.83059897577669
+"San Francisco","2 Bedroom",2012-11-01,3.24313057669452
+"Los Angeles","3 Bedroom",2012-11-01,1.64501203510729
+"San Francisco","3 Bedroom",2012-11-01,NA
+"Seattle","3 Bedroom",2012-11-01,1.34487022811918
+"Los Angeles","4 Bedroom",2012-11-01,1.40396522903911
+"Seattle","4 Bedroom",2012-11-01,1.12068965517241
+"New York","All Homes",2012-11-01,NA
+"Los Angeles","All Homes",2012-11-01,1.76767676767677
+"San Francisco","All Homes",2012-11-01,3.32749562171629
+"Seattle","All Homes",2012-11-01,1.76034121395037
+"New York","Condominium",2012-11-01,NA
+"Los Angeles","Condominium",2012-11-01,1.80188823338488
+"San Francisco","Condominium",2012-11-01,3.49794238683128
+"Seattle","Condominium",2012-11-01,1.92611229528101
+"Los Angeles","Single Family Residence",2012-11-01,1.74306003873467
+"San Francisco","Single Family Residence",2012-11-01,NA
+"Seattle","Single Family Residence",2012-11-01,NA
+"Los Angeles","1 Bedroom",2012-12-01,2.07638888888889
+"San Francisco","1 Bedroom",2012-12-01,3.72890025575448
+"Seattle","1 Bedroom",2012-12-01,2.12042682926829
+"Los Angeles","2 Bedroom",2012-12-01,1.82621987633564
+"San Francisco","2 Bedroom",2012-12-01,3.39646017699115
+"Los Angeles","3 Bedroom",2012-12-01,1.66548630783758
+"San Francisco","3 Bedroom",2012-12-01,NA
+"Seattle","3 Bedroom",2012-12-01,1.37548387096774
+"Los Angeles","4 Bedroom",2012-12-01,1.40193435068839
+"Seattle","4 Bedroom",2012-12-01,1.1830985915493
+"New York","All Homes",2012-12-01,NA
+"Los Angeles","All Homes",2012-12-01,1.7513550457061
+"San Francisco","All Homes",2012-12-01,3.50421804023361
+"Seattle","All Homes",2012-12-01,1.79255319148936
+"New York","Condominium",2012-12-01,NA
+"Los Angeles","Condominium",2012-12-01,1.78571428571429
+"San Francisco","Condominium",2012-12-01,3.63104524180967
+"Seattle","Condominium",2012-12-01,1.86330935251799
+"Los Angeles","Single Family Residence",2012-12-01,1.73410404624277
+"San Francisco","Single Family Residence",2012-12-01,NA
+"Seattle","Single Family Residence",2012-12-01,NA
+"Los Angeles","1 Bedroom",2013-01-01,2.1260541323316
+"San Francisco","1 Bedroom",2013-01-01,3.85847298284045
+"Seattle","1 Bedroom",2013-01-01,2.12483399734396
+"Los Angeles","2 Bedroom",2013-01-01,1.8597520661157
+"San Francisco","2 Bedroom",2013-01-01,3.40574533406497
+"Los Angeles","3 Bedroom",2013-01-01,1.69102595594858
+"San Francisco","3 Bedroom",2013-01-01,NA
+"Seattle","3 Bedroom",2013-01-01,1.35917238749047
+"Los Angeles","4 Bedroom",2013-01-01,1.45290353100789
+"Seattle","4 Bedroom",2013-01-01,1.21212121212121
+"New York","All Homes",2013-01-01,NA
+"Los Angeles","All Homes",2013-01-01,1.795
+"San Francisco","All Homes",2013-01-01,3.58680766889836
+"Seattle","All Homes",2013-01-01,1.79848320693391
+"New York","Condominium",2013-01-01,NA
+"Los Angeles","Condominium",2013-01-01,1.85048076923077
+"San Francisco","Condominium",2013-01-01,3.7037037037037
+"Seattle","Condominium",2013-01-01,1.88949938949939
+"Los Angeles","Single Family Residence",2013-01-01,1.75438596491228
+"San Francisco","Single Family Residence",2013-01-01,NA
+"Seattle","Single Family Residence",2013-01-01,NA
+"Los Angeles","1 Bedroom",2013-02-01,2.15
+"San Francisco","1 Bedroom",2013-02-01,3.86451612903226
+"Seattle","1 Bedroom",2013-02-01,2.19979079497908
+"Los Angeles","2 Bedroom",2013-02-01,1.85707653534952
+"San Francisco","2 Bedroom",2013-02-01,3.41858407079646
+"Los Angeles","3 Bedroom",2013-02-01,1.68399168399168
+"San Francisco","3 Bedroom",2013-02-01,NA
+"Seattle","3 Bedroom",2013-02-01,1.35565476190476
+"Los Angeles","4 Bedroom",2013-02-01,1.46061184762252
+"Seattle","4 Bedroom",2013-02-01,1.125
+"New York","All Homes",2013-02-01,NA
+"Los Angeles","All Homes",2013-02-01,1.79140127388535
+"San Francisco","All Homes",2013-02-01,3.53333333333333
+"Seattle","All Homes",2013-02-01,1.83760683760684
+"New York","Condominium",2013-02-01,NA
+"Los Angeles","Condominium",2013-02-01,1.85871381474958
+"San Francisco","Condominium",2013-02-01,3.60735735735736
+"Seattle","Condominium",2013-02-01,1.81557945870923
+"Los Angeles","Single Family Residence",2013-02-01,1.74927113702624
+"San Francisco","Single Family Residence",2013-02-01,NA
+"Seattle","Single Family Residence",2013-02-01,NA
+"Los Angeles","1 Bedroom",2013-03-01,2.1900826446281
+"San Francisco","1 Bedroom",2013-03-01,3.90688259109312
+"Seattle","1 Bedroom",2013-03-01,2.23725213395479
+"Los Angeles","2 Bedroom",2013-03-01,1.94250194250194
+"San Francisco","2 Bedroom",2013-03-01,3.51985017294275
+"Los Angeles","3 Bedroom",2013-03-01,1.66666666666667
+"San Francisco","3 Bedroom",2013-03-01,NA
+"Seattle","3 Bedroom",2013-03-01,1.35631208004674
+"Los Angeles","4 Bedroom",2013-03-01,1.45141573390261
+"Seattle","4 Bedroom",2013-03-01,1.1773017756008
+"New York","All Homes",2013-03-01,NA
+"Los Angeles","All Homes",2013-03-01,1.77272727272727
+"San Francisco","All Homes",2013-03-01,3.67156862745098
+"Seattle","All Homes",2013-03-01,1.91724137931034
+"New York","Condominium",2013-03-01,NA
+"Los Angeles","Condominium",2013-03-01,1.81818181818182
+"San Francisco","Condominium",2013-03-01,3.79405172413793
+"Seattle","Condominium",2013-03-01,1.86699613235926
+"Los Angeles","Single Family Residence",2013-03-01,1.75697262757966
+"San Francisco","Single Family Residence",2013-03-01,NA
+"Seattle","Single Family Residence",2013-03-01,NA
+"Los Angeles","1 Bedroom",2013-04-01,2.15711009174312
+"San Francisco","1 Bedroom",2013-04-01,3.94187976345853
+"Seattle","1 Bedroom",2013-04-01,2.21311833862176
+"Los Angeles","2 Bedroom",2013-04-01,1.92895962732919
+"San Francisco","2 Bedroom",2013-04-01,3.63104524180967
+"Los Angeles","3 Bedroom",2013-04-01,1.68882536382536
+"San Francisco","3 Bedroom",2013-04-01,NA
+"Seattle","3 Bedroom",2013-04-01,1.38577529994784
+"Los Angeles","4 Bedroom",2013-04-01,1.45833333333333
+"Seattle","4 Bedroom",2013-04-01,1.18705035971223
+"New York","All Homes",2013-04-01,NA
+"Los Angeles","All Homes",2013-04-01,1.79189068100358
+"San Francisco","All Homes",2013-04-01,3.6867567969299
+"Seattle","All Homes",2013-04-01,1.84924242424242
+"New York","Condominium",2013-04-01,NA
+"Los Angeles","Condominium",2013-04-01,1.85889864537017
+"San Francisco","Condominium",2013-04-01,3.83662825558624
+"Seattle","Condominium",2013-04-01,1.9
+"Los Angeles","Single Family Residence",2013-04-01,1.76173529910185
+"San Francisco","Single Family Residence",2013-04-01,NA
+"Seattle","Single Family Residence",2013-04-01,NA
+"Los Angeles","1 Bedroom",2013-05-01,2.21428571428571
+"San Francisco","1 Bedroom",2013-05-01,4.04942965779468
+"Seattle","1 Bedroom",2013-05-01,2.2
+"Los Angeles","2 Bedroom",2013-05-01,1.98183254137481
+"San Francisco","2 Bedroom",2013-05-01,3.74483897605285
+"Los Angeles","3 Bedroom",2013-05-01,1.72222222222222
+"San Francisco","3 Bedroom",2013-05-01,NA
+"Seattle","3 Bedroom",2013-05-01,1.38686131386861
+"Los Angeles","4 Bedroom",2013-05-01,1.43769968051118
+"Seattle","4 Bedroom",2013-05-01,1.18340123121492
+"New York","All Homes",2013-05-01,NA
+"Los Angeles","All Homes",2013-05-01,1.78571428571429
+"San Francisco","All Homes",2013-05-01,3.69883720930233
+"Seattle","All Homes",2013-05-01,1.75514672253742
+"New York","Condominium",2013-05-01,NA
+"Los Angeles","Condominium",2013-05-01,1.88679245283019
+"San Francisco","Condominium",2013-05-01,3.94736842105263
+"Seattle","Condominium",2013-05-01,1.96002698832342
+"Los Angeles","Single Family Residence",2013-05-01,1.72932330827068
+"San Francisco","Single Family Residence",2013-05-01,NA
+"Seattle","Single Family Residence",2013-05-01,NA
+"Los Angeles","1 Bedroom",2013-06-01,2.195
+"San Francisco","1 Bedroom",2013-06-01,4.11984352773827
+"Seattle","1 Bedroom",2013-06-01,2.21906099518459
+"Los Angeles","2 Bedroom",2013-06-01,1.92592592592593
+"San Francisco","2 Bedroom",2013-06-01,3.75
+"Los Angeles","3 Bedroom",2013-06-01,1.71879795887047
+"San Francisco","3 Bedroom",2013-06-01,NA
+"Seattle","3 Bedroom",2013-06-01,1.4027027027027
+"Los Angeles","4 Bedroom",2013-06-01,1.47849462365591
+"Seattle","4 Bedroom",2013-06-01,1.12385321100917
+"New York","All Homes",2013-06-01,NA
+"Los Angeles","All Homes",2013-06-01,1.79591836734694
+"San Francisco","All Homes",2013-06-01,3.51982263954095
+"Seattle","All Homes",2013-06-01,1.76888844936709
+"New York","Condominium",2013-06-01,NA
+"Los Angeles","Condominium",2013-06-01,1.86739926739927
+"San Francisco","Condominium",2013-06-01,3.75784518828452
+"Seattle","Condominium",2013-06-01,2.05035971223022
+"Los Angeles","Single Family Residence",2013-06-01,1.74825174825175
+"San Francisco","Single Family Residence",2013-06-01,NA
+"Seattle","Single Family Residence",2013-06-01,1.37209302325581
+"Los Angeles","1 Bedroom",2013-07-01,2.14615384615385
+"San Francisco","1 Bedroom",2013-07-01,4.24807692307692
+"Seattle","1 Bedroom",2013-07-01,2.28714285714286
+"Los Angeles","2 Bedroom",2013-07-01,1.94656488549618
+"San Francisco","2 Bedroom",2013-07-01,3.74246987951807
+"Los Angeles","3 Bedroom",2013-07-01,1.77049180327869
+"San Francisco","3 Bedroom",2013-07-01,NA
+"Seattle","3 Bedroom",2013-07-01,1.484375
+"Los Angeles","4 Bedroom",2013-07-01,1.48109059123869
+"Seattle","4 Bedroom",2013-07-01,1.27543103448276
+"New York","All Homes",2013-07-01,NA
+"Los Angeles","All Homes",2013-07-01,1.84230769230769
+"San Francisco","All Homes",2013-07-01,3.6734693877551
+"Seattle","All Homes",2013-07-01,1.75398487872213
+"New York","Condominium",2013-07-01,NA
+"Los Angeles","Condominium",2013-07-01,1.88301886792453
+"San Francisco","Condominium",2013-07-01,3.83653846153846
+"Seattle","Condominium",2013-07-01,1.96543873399769
+"Los Angeles","Single Family Residence",2013-07-01,1.79088292860934
+"San Francisco","Single Family Residence",2013-07-01,NA
+"Seattle","Single Family Residence",2013-07-01,1.45576923076923
+"Los Angeles","1 Bedroom",2013-08-01,2.17687074829932
+"San Francisco","1 Bedroom",2013-08-01,4.14124616433686
+"Seattle","1 Bedroom",2013-08-01,2.2629582806574
+"Los Angeles","2 Bedroom",2013-08-01,1.95288248337029
+"San Francisco","2 Bedroom",2013-08-01,3.72413793103448
+"Los Angeles","3 Bedroom",2013-08-01,1.71875
+"San Francisco","3 Bedroom",2013-08-01,NA
+"Seattle","3 Bedroom",2013-08-01,1.46047680481643
+"Los Angeles","4 Bedroom",2013-08-01,1.47320020797513
+"Seattle","4 Bedroom",2013-08-01,1.22695056330923
+"New York","All Homes",2013-08-01,NA
+"Los Angeles","All Homes",2013-08-01,1.81818181818182
+"San Francisco","All Homes",2013-08-01,3.70879120879121
+"Seattle","All Homes",2013-08-01,1.78448936911816
+"New York","Condominium",2013-08-01,NA
+"Los Angeles","Condominium",2013-08-01,1.97568389057751
+"San Francisco","Condominium",2013-08-01,3.81395348837209
+"Seattle","Condominium",2013-08-01,1.99782608695652
+"Los Angeles","Single Family Residence",2013-08-01,1.69125419723915
+"San Francisco","Single Family Residence",2013-08-01,NA
+"Seattle","Single Family Residence",2013-08-01,1.41336697722567
+"Los Angeles","1 Bedroom",2013-09-01,2.25660957765214
+"San Francisco","1 Bedroom",2013-09-01,4.0842068411623
+"Seattle","1 Bedroom",2013-09-01,2.29826752618856
+"Los Angeles","2 Bedroom",2013-09-01,2.03766105054509
+"San Francisco","2 Bedroom",2013-09-01,3.6496469816273
+"Los Angeles","3 Bedroom",2013-09-01,1.77462365760716
+"San Francisco","3 Bedroom",2013-09-01,3.30434782608696
+"Seattle","3 Bedroom",2013-09-01,1.46533613445378
+"Los Angeles","4 Bedroom",2013-09-01,1.54699417826344
+"Seattle","4 Bedroom",2013-09-01,1.23220262793914
+"New York","All Homes",2013-09-01,NA
+"Los Angeles","All Homes",2013-09-01,1.88
+"San Francisco","All Homes",2013-09-01,3.61678065213962
+"Seattle","All Homes",2013-09-01,1.73604530648505
+"New York","Condominium",2013-09-01,NA
+"Los Angeles","Condominium",2013-09-01,1.97524752475248
+"San Francisco","Condominium",2013-09-01,3.84065882724612
+"Seattle","Condominium",2013-09-01,2.03525365434222
+"Los Angeles","Single Family Residence",2013-09-01,1.82186234817814
+"San Francisco","Single Family Residence",2013-09-01,NA
+"Seattle","Single Family Residence",2013-09-01,1.39880952380952
+"Los Angeles","1 Bedroom",2013-10-01,2.33920395805642
+"San Francisco","1 Bedroom",2013-10-01,4.0595399188092
+"Seattle","1 Bedroom",2013-10-01,2.25102319236016
+"Los Angeles","2 Bedroom",2013-10-01,2.02507232401157
+"San Francisco","2 Bedroom",2013-10-01,3.75698569213214
+"Los Angeles","3 Bedroom",2013-10-01,1.77463037724247
+"San Francisco","3 Bedroom",2013-10-01,3.14822266934943
+"Seattle","3 Bedroom",2013-10-01,1.46733831654209
+"Los Angeles","4 Bedroom",2013-10-01,1.51690514336225
+"Seattle","4 Bedroom",2013-10-01,1.12359550561798
+"New York","All Homes",2013-10-01,4.12469806763285
+"Los Angeles","All Homes",2013-10-01,1.87620521892968
+"San Francisco","All Homes",2013-10-01,3.50097276264591
+"Seattle","All Homes",2013-10-01,1.72168042010503
+"New York","Condominium",2013-10-01,4.45133418819075
+"Los Angeles","Condominium",2013-10-01,1.98744769874477
+"San Francisco","Condominium",2013-10-01,3.88291517323775
+"Seattle","Condominium",2013-10-01,2.21559974979428
+"Los Angeles","Single Family Residence",2013-10-01,1.8263859045982
+"San Francisco","Single Family Residence",2013-10-01,NA
+"Seattle","Single Family Residence",2013-10-01,1.395
+"Los Angeles","1 Bedroom",2013-11-01,2.183981657179
+"San Francisco","1 Bedroom",2013-11-01,4.08898305084746
+"Seattle","1 Bedroom",2013-11-01,2.23514211886305
+"Los Angeles","2 Bedroom",2013-11-01,1.93315018315018
+"San Francisco","2 Bedroom",2013-11-01,3.79523389232127
+"Los Angeles","3 Bedroom",2013-11-01,1.7234219269103
+"San Francisco","3 Bedroom",2013-11-01,3.02952974463665
+"Seattle","3 Bedroom",2013-11-01,1.38059701492537
+"Los Angeles","4 Bedroom",2013-11-01,1.47487359808304
+"Seattle","4 Bedroom",2013-11-01,1.06796116504854
+"New York","All Homes",2013-11-01,4.33017591339648
+"Los Angeles","All Homes",2013-11-01,1.79054054054054
+"San Francisco","All Homes",2013-11-01,3.37154055000876
+"Seattle","All Homes",2013-11-01,1.69145289694825
+"New York","Condominium",2013-11-01,4.66321243523316
+"Los Angeles","Condominium",2013-11-01,1.96418255343732
+"San Francisco","Condominium",2013-11-01,3.71696035242291
+"Seattle","Condominium",2013-11-01,2.20858895705521
+"Los Angeles","Single Family Residence",2013-11-01,1.71854166666667
+"San Francisco","Single Family Residence",2013-11-01,NA
+"Seattle","Single Family Residence",2013-11-01,1.39338235294118
+"Los Angeles","1 Bedroom",2013-12-01,2.32115243004418
+"San Francisco","1 Bedroom",2013-12-01,4.15419161676647
+"Seattle","1 Bedroom",2013-12-01,2.30307076101469
+"Los Angeles","2 Bedroom",2013-12-01,2.02227272727273
+"San Francisco","2 Bedroom",2013-12-01,3.75523012552301
+"Los Angeles","3 Bedroom",2013-12-01,1.80740454529488
+"San Francisco","3 Bedroom",2013-12-01,3.0282386458857
+"Seattle","3 Bedroom",2013-12-01,1.41252931187839
+"Los Angeles","4 Bedroom",2013-12-01,1.52034648568649
+"Seattle","4 Bedroom",2013-12-01,1.10147058823529
+"New York","All Homes",2013-12-01,4.32072829131653
+"Los Angeles","All Homes",2013-12-01,1.89510797708242
+"San Francisco","All Homes",2013-12-01,3.41885964912281
+"Seattle","All Homes",2013-12-01,1.69041582150101
+"New York","Condominium",2013-12-01,4.64203158509767
+"Los Angeles","Condominium",2013-12-01,1.99014563106796
+"San Francisco","Condominium",2013-12-01,3.67892976588629
+"Seattle","Condominium",2013-12-01,2.19549276829539
+"Los Angeles","Single Family Residence",2013-12-01,1.84049079754601
+"San Francisco","Single Family Residence",2013-12-01,NA
+"Seattle","Single Family Residence",2013-12-01,1.40532212885154
+"Los Angeles","1 Bedroom",2014-01-01,2.26868315684105
+"San Francisco","1 Bedroom",2014-01-01,4.16666666666667
+"Seattle","1 Bedroom",2014-01-01,2.29067930489731
+"Los Angeles","2 Bedroom",2014-01-01,2
+"San Francisco","2 Bedroom",2014-01-01,3.80708162913884
+"Los Angeles","3 Bedroom",2014-01-01,1.7741935483871
+"San Francisco","3 Bedroom",2014-01-01,3.00820698539679
+"Seattle","3 Bedroom",2014-01-01,1.4344262295082
+"Los Angeles","4 Bedroom",2014-01-01,1.49692691827523
+"Seattle","4 Bedroom",2014-01-01,1.12078651685393
+"New York","All Homes",2014-01-01,4.32170542635659
+"Los Angeles","All Homes",2014-01-01,1.8695652173913
+"San Francisco","All Homes",2014-01-01,3.46320346320346
+"Seattle","All Homes",2014-01-01,1.73228346456693
+"New York","Condominium",2014-01-01,4.65268676277851
+"Los Angeles","Condominium",2014-01-01,1.99
+"San Francisco","Condominium",2014-01-01,3.79482142857143
+"Seattle","Condominium",2014-01-01,2.13151182416415
+"Los Angeles","Single Family Residence",2014-01-01,1.81814654611356
+"San Francisco","Single Family Residence",2014-01-01,NA
+"Seattle","Single Family Residence",2014-01-01,1.39925373134328
+"Los Angeles","1 Bedroom",2014-02-01,2.20740740740741
+"San Francisco","1 Bedroom",2014-02-01,4.14304549042118
+"Seattle","1 Bedroom",2014-02-01,2.27756564683209
+"Los Angeles","2 Bedroom",2014-02-01,2
+"San Francisco","2 Bedroom",2014-02-01,3.77836611195159
+"Los Angeles","3 Bedroom",2014-02-01,1.75878991007955
+"San Francisco","3 Bedroom",2014-02-01,3.01724137931034
+"Seattle","3 Bedroom",2014-02-01,1.41396725879485
+"Los Angeles","4 Bedroom",2014-02-01,1.46149522203485
+"Seattle","4 Bedroom",2014-02-01,1.08261173795154
+"New York","All Homes",2014-02-01,4.26621160409556
+"Los Angeles","All Homes",2014-02-01,1.86891012456623
+"San Francisco","All Homes",2014-02-01,3.39130434782609
+"Seattle","All Homes",2014-02-01,1.68054298642534
+"New York","Condominium",2014-02-01,4.62660009560737
+"Los Angeles","Condominium",2014-02-01,1.98429319371728
+"San Francisco","Condominium",2014-02-01,3.81678336417371
+"Seattle","Condominium",2014-02-01,2.07022371841442
+"Los Angeles","Single Family Residence",2014-02-01,1.81102362204724
+"San Francisco","Single Family Residence",2014-02-01,NA
+"Seattle","Single Family Residence",2014-02-01,1.39631804214223
+"Los Angeles","1 Bedroom",2014-03-01,2.20086902685603
+"San Francisco","1 Bedroom",2014-03-01,4.0951821386604
+"Seattle","1 Bedroom",2014-03-01,2.26939970717423
+"Los Angeles","2 Bedroom",2014-03-01,2.00378071833648
+"San Francisco","2 Bedroom",2014-03-01,3.79333333333333
+"Los Angeles","3 Bedroom",2014-03-01,1.77624824381282
+"San Francisco","3 Bedroom",2014-03-01,2.98006222670703
+"Seattle","3 Bedroom",2014-03-01,1.4247311827957
+"Los Angeles","4 Bedroom",2014-03-01,1.47344758268251
+"Seattle","4 Bedroom",2014-03-01,1.15064102564103
+"New York","All Homes",2014-03-01,4.17582417582418
+"Los Angeles","All Homes",2014-03-01,1.87053996883492
+"San Francisco","All Homes",2014-03-01,3.44006072227549
+"Seattle","All Homes",2014-03-01,1.67647058823529
+"New York","Condominium",2014-03-01,4.61647727272727
+"Los Angeles","Condominium",2014-03-01,1.98881292728403
+"San Francisco","Condominium",2014-03-01,3.86971830985915
+"Seattle","Condominium",2014-03-01,2.07197382769902
+"Los Angeles","Single Family Residence",2014-03-01,1.81535269709544
+"San Francisco","Single Family Residence",2014-03-01,NA
+"Seattle","Single Family Residence",2014-03-01,1.39631804214223
+"Los Angeles","1 Bedroom",2014-04-01,2.2604347826087
+"San Francisco","1 Bedroom",2014-04-01,4.25
+"Seattle","1 Bedroom",2014-04-01,2.33431085043988
+"Los Angeles","2 Bedroom",2014-04-01,2.06337509211496
+"San Francisco","2 Bedroom",2014-04-01,3.91608876560333
+"Los Angeles","3 Bedroom",2014-04-01,1.81944444444444
+"San Francisco","3 Bedroom",2014-04-01,3.07692307692308
+"Seattle","3 Bedroom",2014-04-01,1.46776427962489
+"Los Angeles","4 Bedroom",2014-04-01,1.5
+"Seattle","4 Bedroom",2014-04-01,1.21428571428571
+"New York","All Homes",2014-04-01,4.11111111111111
+"Los Angeles","All Homes",2014-04-01,1.90713101160862
+"San Francisco","All Homes",2014-04-01,3.4681366156603
+"Seattle","All Homes",2014-04-01,1.73369565217391
+"New York","Condominium",2014-04-01,4.59550461975835
+"Los Angeles","Condominium",2014-04-01,2.01438848920863
+"San Francisco","Condominium",2014-04-01,3.86938296445339
+"Seattle","Condominium",2014-04-01,2.10788446913335
+"Los Angeles","Single Family Residence",2014-04-01,1.85185185185185
+"San Francisco","Single Family Residence",2014-04-01,NA
+"Seattle","Single Family Residence",2014-04-01,1.43030303030303
+"Los Angeles","1 Bedroom",2014-05-01,2.37803400149331
+"San Francisco","1 Bedroom",2014-05-01,4.375
+"Seattle","1 Bedroom",2014-05-01,2.43526510480888
+"Los Angeles","2 Bedroom",2014-05-01,2.10760876216931
+"San Francisco","2 Bedroom",2014-05-01,3.99350798403194
+"Los Angeles","3 Bedroom",2014-05-01,1.8851770483329
+"San Francisco","3 Bedroom",2014-05-01,3.35078534031414
+"Seattle","3 Bedroom",2014-05-01,1.63524590163934
+"Los Angeles","4 Bedroom",2014-05-01,1.6
+"Seattle","4 Bedroom",2014-05-01,1.29037629037629
+"New York","All Homes",2014-05-01,4.31034482758621
+"Los Angeles","All Homes",2014-05-01,2
+"San Francisco","All Homes",2014-05-01,3.8563829787234
+"Seattle","All Homes",2014-05-01,1.81190085771948
+"New York","Condominium",2014-05-01,4.632
+"Los Angeles","Condominium",2014-05-01,2.0691753940437
+"San Francisco","Condominium",2014-05-01,4.02777777777778
+"Seattle","Condominium",2014-05-01,2.19562805847088
+"Los Angeles","Single Family Residence",2014-05-01,1.94581280788177
+"San Francisco","Single Family Residence",2014-05-01,NA
+"Seattle","Single Family Residence",2014-05-01,1.58282419290698
+"Los Angeles","1 Bedroom",2014-06-01,2.39
+"San Francisco","1 Bedroom",2014-06-01,4.41689065051715
+"Seattle","1 Bedroom",2014-06-01,2.47513892780424
+"Los Angeles","2 Bedroom",2014-06-01,2.1430591086576
+"San Francisco","2 Bedroom",2014-06-01,3.96574731465301
+"Los Angeles","3 Bedroom",2014-06-01,1.91532258064516
+"San Francisco","3 Bedroom",2014-06-01,2.77777777777778
+"Seattle","3 Bedroom",2014-06-01,1.59310945273632
+"Los Angeles","4 Bedroom",2014-06-01,1.64041994750656
+"Seattle","4 Bedroom",2014-06-01,1.27242063492063
+"New York","All Homes",2014-06-01,4.34782608695652
+"Los Angeles","All Homes",2014-06-01,2.03555625790139
+"San Francisco","All Homes",2014-06-01,3.57142857142857
+"Seattle","All Homes",2014-06-01,1.76431539017341
+"New York","Condominium",2014-06-01,4.6875
+"Los Angeles","Condominium",2014-06-01,2.09120617944147
+"San Francisco","Condominium",2014-06-01,3.80262295081967
+"Seattle","Condominium",2014-06-01,2.21739130434783
+"Los Angeles","Single Family Residence",2014-06-01,1.99612645626827
+"San Francisco","Single Family Residence",2014-06-01,3.1225
+"Seattle","Single Family Residence",2014-06-01,1.56611570247934
+"Los Angeles","1 Bedroom",2014-07-01,2.43395037798023
+"San Francisco","1 Bedroom",2014-07-01,4.42469157932955
+"Seattle","1 Bedroom",2014-07-01,2.49019607843137
+"Los Angeles","2 Bedroom",2014-07-01,2.15197568389058
+"San Francisco","2 Bedroom",2014-07-01,4.01622718052738
+"Los Angeles","3 Bedroom",2014-07-01,1.98187995469989
+"San Francisco","3 Bedroom",2014-07-01,3.1172801992528
+"Seattle","3 Bedroom",2014-07-01,1.60638957816377
+"Los Angeles","4 Bedroom",2014-07-01,1.68444444444444
+"Seattle","4 Bedroom",2014-07-01,1.31103801169591
+"New York","All Homes",2014-07-01,4.33528969849052
+"Los Angeles","All Homes",2014-07-01,2.08333333333333
+"San Francisco","All Homes",2014-07-01,3.65601836921264
+"Seattle","All Homes",2014-07-01,1.75467546754675
+"New York","Condominium",2014-07-01,4.68321581840131
+"Los Angeles","Condominium",2014-07-01,2.14224507283633
+"San Francisco","Condominium",2014-07-01,3.81041710430388
+"Seattle","Condominium",2014-07-01,2.1505376344086
+"Los Angeles","Single Family Residence",2014-07-01,2.02954191936437
+"San Francisco","Single Family Residence",2014-07-01,3.27395833333333
+"Seattle","Single Family Residence",2014-07-01,1.55414966853646
+"Los Angeles","1 Bedroom",2014-08-01,2.43801652892562
+"San Francisco","1 Bedroom",2014-08-01,4.50865114593713
+"Seattle","1 Bedroom",2014-08-01,2.51111414581496
+"Los Angeles","2 Bedroom",2014-08-01,2.18295218295218
+"San Francisco","2 Bedroom",2014-08-01,4.15754923413567
+"Los Angeles","3 Bedroom",2014-08-01,1.9975
+"San Francisco","3 Bedroom",2014-08-01,3.40909090909091
+"Seattle","3 Bedroom",2014-08-01,1.57977790765634
+"Los Angeles","4 Bedroom",2014-08-01,1.67688111427416
+"Seattle","4 Bedroom",2014-08-01,1.31868131868132
+"New York","All Homes",2014-08-01,4.31654676258993
+"Los Angeles","All Homes",2014-08-01,2.06907767287261
+"San Francisco","All Homes",2014-08-01,3.83072400060114
+"Seattle","All Homes",2014-08-01,1.77694707401033
+"New York","Condominium",2014-08-01,4.67509481668774
+"Los Angeles","Condominium",2014-08-01,2.11597451628126
+"San Francisco","Condominium",2014-08-01,4.05131852500274
+"Seattle","Condominium",2014-08-01,2.13154689403167
+"Los Angeles","Single Family Residence",2014-08-01,2.02798567378511
+"San Francisco","Single Family Residence",2014-08-01,3.46949103528051
+"Seattle","Single Family Residence",2014-08-01,1.5606936416185
+"Los Angeles","1 Bedroom",2014-09-01,2.49700598802395
+"San Francisco","1 Bedroom",2014-09-01,4.46086413371241
+"Seattle","1 Bedroom",2014-09-01,2.50365125495376
+"Los Angeles","2 Bedroom",2014-09-01,2.195
+"San Francisco","2 Bedroom",2014-09-01,4.09609323158593
+"Los Angeles","3 Bedroom",2014-09-01,1.96610169491525
+"San Francisco","3 Bedroom",2014-09-01,3.51521164021164
+"Seattle","3 Bedroom",2014-09-01,1.57915198299491
+"Los Angeles","4 Bedroom",2014-09-01,1.64285714285714
+"Seattle","4 Bedroom",2014-09-01,1.27242063492063
+"New York","All Homes",2014-09-01,4.2984375
+"Los Angeles","All Homes",2014-09-01,2.09067193675889
+"San Francisco","All Homes",2014-09-01,3.77586206896552
+"Seattle","All Homes",2014-09-01,1.78524124881741
+"New York","Condominium",2014-09-01,4.63546720101244
+"Los Angeles","Condominium",2014-09-01,2.1499772063374
+"San Francisco","Condominium",2014-09-01,3.89937106918239
+"Seattle","Condominium",2014-09-01,2.13648528099911
+"Los Angeles","Single Family Residence",2014-09-01,2.04124149659864
+"San Francisco","Single Family Residence",2014-09-01,3.63307779476298
+"Seattle","Single Family Residence",2014-09-01,1.56716417910448
+"Los Angeles","1 Bedroom",2014-10-01,2.5
+"San Francisco","1 Bedroom",2014-10-01,4.50841230232238
+"Seattle","1 Bedroom",2014-10-01,2.46078920575397
+"Los Angeles","2 Bedroom",2014-10-01,2.17687074829932
+"San Francisco","2 Bedroom",2014-10-01,4.11423039690223
+"Los Angeles","3 Bedroom",2014-10-01,1.94664744051911
+"San Francisco","3 Bedroom",2014-10-01,3.4264394377046
+"Seattle","3 Bedroom",2014-10-01,1.6030534351145
+"Los Angeles","4 Bedroom",2014-10-01,1.62747173345538
+"Seattle","4 Bedroom",2014-10-01,1.2475
+"New York","All Homes",2014-10-01,4.26724137931035
+"Los Angeles","All Homes",2014-10-01,2.05555555555556
+"San Francisco","All Homes",2014-10-01,3.85888656365029
+"Seattle","All Homes",2014-10-01,1.81027371578553
+"New York","Condominium",2014-10-01,4.62414383561644
+"Los Angeles","Condominium",2014-10-01,2.09637046307885
+"San Francisco","Condominium",2014-10-01,4.05405405405405
+"Seattle","Condominium",2014-10-01,2.19388971611534
+"Los Angeles","Single Family Residence",2014-10-01,2.03025477707006
+"San Francisco","Single Family Residence",2014-10-01,3.4402560455192
+"Seattle","Single Family Residence",2014-10-01,1.57603668261563
+"Los Angeles","1 Bedroom",2014-11-01,2.50297161821003
+"San Francisco","1 Bedroom",2014-11-01,4.57085561497326
+"Seattle","1 Bedroom",2014-11-01,2.46028425317128
+"Los Angeles","2 Bedroom",2014-11-01,2.195
+"San Francisco","2 Bedroom",2014-11-01,4.15467625899281
+"Los Angeles","3 Bedroom",2014-11-01,1.96078431372549
+"San Francisco","3 Bedroom",2014-11-01,3.50526315789474
+"Seattle","3 Bedroom",2014-11-01,1.56339031339031
+"Los Angeles","4 Bedroom",2014-11-01,1.62790697674419
+"Seattle","4 Bedroom",2014-11-01,1.23076923076923
+"New York","All Homes",2014-11-01,4.19546436285097
+"Los Angeles","All Homes",2014-11-01,2.06063404124346
+"San Francisco","All Homes",2014-11-01,3.81018621456365
+"Seattle","All Homes",2014-11-01,1.88348416289593
+"New York","Condominium",2014-11-01,4.59363957597173
+"Los Angeles","Condominium",2014-11-01,2.11267605633803
+"San Francisco","Condominium",2014-11-01,4.09180563026717
+"Seattle","Condominium",2014-11-01,2.22771403353928
+"Los Angeles","Single Family Residence",2014-11-01,2.01488268238898
+"San Francisco","Single Family Residence",2014-11-01,3.26615440907428
+"Seattle","Single Family Residence",2014-11-01,1.57173998428908
+"Los Angeles","1 Bedroom",2014-12-01,2.53521126760563
+"San Francisco","1 Bedroom",2014-12-01,4.61007194244604
+"Seattle","1 Bedroom",2014-12-01,2.41666666666667
+"Los Angeles","2 Bedroom",2014-12-01,2.20883534136546
+"San Francisco","2 Bedroom",2014-12-01,4.22694571615435
+"Los Angeles","3 Bedroom",2014-12-01,1.95011768661735
+"San Francisco","3 Bedroom",2014-12-01,3.65384615384615
+"Seattle","3 Bedroom",2014-12-01,1.60194174757282
+"Los Angeles","4 Bedroom",2014-12-01,1.63934426229508
+"Seattle","4 Bedroom",2014-12-01,1.26404494382022
+"New York","All Homes",2014-12-01,4.16666666666667
+"Los Angeles","All Homes",2014-12-01,2.08333333333333
+"San Francisco","All Homes",2014-12-01,3.73333333333333
+"Seattle","All Homes",2014-12-01,1.87597297207777
+"New York","Condominium",2014-12-01,4.62705055958527
+"Los Angeles","Condominium",2014-12-01,2.13988179446069
+"San Francisco","Condominium",2014-12-01,3.95870260112231
+"Seattle","Condominium",2014-12-01,2.17816091954023
+"Los Angeles","Single Family Residence",2014-12-01,2.03693104161454
+"San Francisco","Single Family Residence",2014-12-01,3.38709677419355
+"Seattle","Single Family Residence",2014-12-01,1.62162162162162
+"Los Angeles","1 Bedroom",2015-01-01,2.55389718076285
+"San Francisco","1 Bedroom",2015-01-01,4.7093023255814
+"Seattle","1 Bedroom",2015-01-01,2.47841591040916
+"Los Angeles","2 Bedroom",2015-01-01,2.24263771186441
+"San Francisco","2 Bedroom",2015-01-01,4.25
+"Los Angeles","3 Bedroom",2015-01-01,1.97725605282465
+"San Francisco","3 Bedroom",2015-01-01,3.65384615384615
+"Seattle","3 Bedroom",2015-01-01,1.62337662337662
+"Los Angeles","4 Bedroom",2015-01-01,1.67225201072386
+"Seattle","4 Bedroom",2015-01-01,1.28865979381443
+"New York","All Homes",2015-01-01,4.32072829131653
+"Los Angeles","All Homes",2015-01-01,2.12708993107303
+"San Francisco","All Homes",2015-01-01,3.86363636363636
+"Seattle","All Homes",2015-01-01,1.86145043291496
+"New York","Condominium",2015-01-01,4.73372781065089
+"Los Angeles","Condominium",2015-01-01,2.19653992618247
+"San Francisco","Condominium",2015-01-01,4.0625562646288
+"Seattle","Condominium",2015-01-01,2.23205128205128
+"Los Angeles","Single Family Residence",2015-01-01,2.06468066314319
+"San Francisco","Single Family Residence",2015-01-01,3.58
+"Seattle","Single Family Residence",2015-01-01,1.59332688588008
+"Los Angeles","1 Bedroom",2015-02-01,2.63176169590643
+"San Francisco","1 Bedroom",2015-02-01,4.83333333333333
+"Seattle","1 Bedroom",2015-02-01,2.49450200468421
+"Los Angeles","2 Bedroom",2015-02-01,2.24761125364947
+"San Francisco","2 Bedroom",2015-02-01,4.27215500327011
+"Los Angeles","3 Bedroom",2015-02-01,1.96579779470321
+"San Francisco","3 Bedroom",2015-02-01,3.80987452264048
+"Seattle","3 Bedroom",2015-02-01,1.62635869565217
+"Los Angeles","4 Bedroom",2015-02-01,1.67450058754407
+"Seattle","4 Bedroom",2015-02-01,1.26050058527852
+"New York","All Homes",2015-02-01,4.36363636363636
+"Los Angeles","All Homes",2015-02-01,2.13227705208837
+"San Francisco","All Homes",2015-02-01,3.95395799676898
+"Seattle","All Homes",2015-02-01,1.86304956765315
+"New York","Condominium",2015-02-01,4.75
+"Los Angeles","Condominium",2015-02-01,2.18681318681319
+"San Francisco","Condominium",2015-02-01,4.07164206358359
+"Seattle","Condominium",2015-02-01,2.33050847457627
+"Los Angeles","Single Family Residence",2015-02-01,2.06489675516224
+"San Francisco","Single Family Residence",2015-02-01,3.61197110423117
+"Seattle","Single Family Residence",2015-02-01,1.56611570247934
+"Los Angeles","1 Bedroom",2015-03-01,2.62445335276968
+"San Francisco","1 Bedroom",2015-03-01,4.71034482758621
+"Seattle","1 Bedroom",2015-03-01,2.51748251748252
+"Los Angeles","2 Bedroom",2015-03-01,2.26
+"San Francisco","2 Bedroom",2015-03-01,4.19351851851852
+"Los Angeles","3 Bedroom",2015-03-01,2.00270822869446
+"San Francisco","3 Bedroom",2015-03-01,3.90355329949239
+"Seattle","3 Bedroom",2015-03-01,1.72077922077922
+"Los Angeles","4 Bedroom",2015-03-01,1.69167777139341
+"Seattle","4 Bedroom",2015-03-01,1.275
+"New York","All Homes",2015-03-01,4.375
+"Los Angeles","All Homes",2015-03-01,2.1415270018622
+"San Francisco","All Homes",2015-03-01,4.00691338940111
+"Seattle","All Homes",2015-03-01,1.91489361702128
+"New York","Condominium",2015-03-01,4.76183473389356
+"Los Angeles","Condominium",2015-03-01,2.19724770642202
+"San Francisco","Condominium",2015-03-01,4.15944540727903
+"Seattle","Condominium",2015-03-01,2.26666666666667
+"Los Angeles","Single Family Residence",2015-03-01,2.09838272484001
+"San Francisco","Single Family Residence",2015-03-01,3.65
+"Seattle","Single Family Residence",2015-03-01,1.61064030131827
+"Los Angeles","1 Bedroom",2015-04-01,2.59259259259259
+"San Francisco","1 Bedroom",2015-04-01,4.84980620155039
+"Seattle","1 Bedroom",2015-04-01,2.57475083056478
+"Los Angeles","2 Bedroom",2015-04-01,2.3030303030303
+"San Francisco","2 Bedroom",2015-04-01,4.22045220966084
+"Los Angeles","3 Bedroom",2015-04-01,2.11534705928906
+"San Francisco","3 Bedroom",2015-04-01,3.7989479836353
+"Seattle","3 Bedroom",2015-04-01,1.70073703240161
+"Los Angeles","4 Bedroom",2015-04-01,1.69388257296127
+"Seattle","4 Bedroom",2015-04-01,1.35680486705723
+"New York","All Homes",2015-04-01,4.44572748267898
+"Los Angeles","All Homes",2015-04-01,2.28571428571429
+"San Francisco","All Homes",2015-04-01,4.1195892280963
+"Seattle","All Homes",2015-04-01,1.96540880503145
+"New York","Condominium",2015-04-01,4.79166666666667
+"Los Angeles","Condominium",2015-04-01,2.32558139534884
+"San Francisco","Condominium",2015-04-01,4.38888888888889
+"Seattle","Condominium",2015-04-01,2.30089695452649
+"Los Angeles","Single Family Residence",2015-04-01,2.23813786929275
+"San Francisco","Single Family Residence",2015-04-01,3.5740878629933
+"Seattle","Single Family Residence",2015-04-01,1.63398692810458
+"Los Angeles","1 Bedroom",2015-05-01,2.61142857142857
+"San Francisco","1 Bedroom",2015-05-01,4.85714285714286
+"Seattle","1 Bedroom",2015-05-01,2.59
+"Los Angeles","2 Bedroom",2015-05-01,2.31183313152639
+"San Francisco","2 Bedroom",2015-05-01,4.33333333333333
+"Los Angeles","3 Bedroom",2015-05-01,2.12582192753663
+"San Francisco","3 Bedroom",2015-05-01,3.80769230769231
+"Seattle","3 Bedroom",2015-05-01,1.77033492822966
+"Los Angeles","4 Bedroom",2015-05-01,1.73889042760098
+"Seattle","4 Bedroom",2015-05-01,1.35714285714286
+"New York","All Homes",2015-05-01,4.46584938704028
+"Los Angeles","All Homes",2015-05-01,2.30673316708229
+"San Francisco","All Homes",2015-05-01,4.07218644689867
+"Seattle","All Homes",2015-05-01,1.95652173913043
+"New York","Condominium",2015-05-01,4.8386445885079
+"Los Angeles","Condominium",2015-05-01,2.33514492753623
+"San Francisco","Condominium",2015-05-01,4.43907604865643
+"Seattle","Condominium",2015-05-01,2.29968415640379
+"Los Angeles","Single Family Residence",2015-05-01,2.27027027027027
+"San Francisco","Single Family Residence",2015-05-01,3.57892027944776
+"Seattle","Single Family Residence",2015-05-01,1.66358024691358
+"Los Angeles","1 Bedroom",2015-06-01,2.63888888888889
+"San Francisco","1 Bedroom",2015-06-01,4.91094147582697
+"Seattle","1 Bedroom",2015-06-01,2.60815162454874
+"Los Angeles","2 Bedroom",2015-06-01,2.32916666666667
+"San Francisco","2 Bedroom",2015-06-01,4.36151079136691
+"Los Angeles","3 Bedroom",2015-06-01,2.13952420637494
+"San Francisco","3 Bedroom",2015-06-01,3.82971342383107
+"Seattle","3 Bedroom",2015-06-01,1.80909090909091
+"Los Angeles","4 Bedroom",2015-06-01,1.72413793103448
+"Seattle","4 Bedroom",2015-06-01,1.38018433179724
+"New York","All Homes",2015-06-01,4.46428571428571
+"Los Angeles","All Homes",2015-06-01,2.31932086980536
+"San Francisco","All Homes",2015-06-01,4.07098783511999
+"Seattle","All Homes",2015-06-01,1.92403846153846
+"New York","Condominium",2015-06-01,4.8444754258071
+"Los Angeles","Condominium",2015-06-01,2.3632731169545
+"San Francisco","Condominium",2015-06-01,4.47462796186857
+"Seattle","Condominium",2015-06-01,2.25768447295613
+"Los Angeles","Single Family Residence",2015-06-01,2.26860169631519
+"San Francisco","Single Family Residence",2015-06-01,3.59716317991632
+"Seattle","Single Family Residence",2015-06-01,1.6842280390417
+"Los Angeles","1 Bedroom",2015-07-01,2.625
+"San Francisco","1 Bedroom",2015-07-01,4.85714285714286
+"Seattle","1 Bedroom",2015-07-01,2.63959390862944
+"Los Angeles","2 Bedroom",2015-07-01,2.35155513666352
+"San Francisco","2 Bedroom",2015-07-01,4.41176470588235
+"Los Angeles","3 Bedroom",2015-07-01,2.13992707383774
+"San Francisco","3 Bedroom",2015-07-01,3.95815476190476
+"Seattle","3 Bedroom",2015-07-01,1.73160173160173
+"Los Angeles","4 Bedroom",2015-07-01,1.78392857142857
+"Seattle","4 Bedroom",2015-07-01,1.41114640326075
+"New York","All Homes",2015-07-01,4.37007874015748
+"Los Angeles","All Homes",2015-07-01,2.32521186440678
+"San Francisco","All Homes",2015-07-01,4.16666666666667
+"Seattle","All Homes",2015-07-01,1.92913385826772
+"New York","Condominium",2015-07-01,4.8
+"Los Angeles","Condominium",2015-07-01,2.37200768827538
+"San Francisco","Condominium",2015-07-01,4.44575833896431
+"Seattle","Condominium",2015-07-01,2.35294117647059
+"Los Angeles","Single Family Residence",2015-07-01,2.27019498607242
+"San Francisco","Single Family Residence",2015-07-01,3.77586206896552
+"Seattle","Single Family Residence",2015-07-01,1.68183673469388
+"Los Angeles","1 Bedroom",2015-08-01,2.65384615384615
+"San Francisco","1 Bedroom",2015-08-01,4.90048021732463
+"Seattle","1 Bedroom",2015-08-01,2.64601769911504
+"Los Angeles","2 Bedroom",2015-08-01,2.3774358974359
+"San Francisco","2 Bedroom",2015-08-01,4.42922196200885
+"Los Angeles","3 Bedroom",2015-08-01,2.16508581907594
+"San Francisco","3 Bedroom",2015-08-01,3.98803921568627
+"Seattle","3 Bedroom",2015-08-01,1.72537831803523
+"Los Angeles","4 Bedroom",2015-08-01,1.82212776562457
+"Seattle","4 Bedroom",2015-08-01,1.48074074074074
+"New York","All Homes",2015-08-01,4.36463221643805
+"Los Angeles","All Homes",2015-08-01,2.35950279374848
+"San Francisco","All Homes",2015-08-01,4.22259326193578
+"Seattle","All Homes",2015-08-01,1.97429256761454
+"New York","Condominium",2015-08-01,4.77871591040011
+"Los Angeles","Condominium",2015-08-01,2.40174672489083
+"San Francisco","Condominium",2015-08-01,4.43502824858757
+"Seattle","Condominium",2015-08-01,2.41935483870968
+"Los Angeles","Single Family Residence",2015-08-01,2.32414006817478
+"San Francisco","Single Family Residence",2015-08-01,3.93311138014528
+"Seattle","Single Family Residence",2015-08-01,1.66666666666667
+"Los Angeles","1 Bedroom",2015-09-01,2.66
+"San Francisco","1 Bedroom",2015-09-01,4.994375
+"Seattle","1 Bedroom",2015-09-01,2.65
+"Los Angeles","2 Bedroom",2015-09-01,2.41004623791509
+"San Francisco","2 Bedroom",2015-09-01,4.34759725400458
+"Los Angeles","3 Bedroom",2015-09-01,2.21617418351477
+"San Francisco","3 Bedroom",2015-09-01,3.85714285714286
+"Seattle","3 Bedroom",2015-09-01,1.7514880952381
+"Los Angeles","4 Bedroom",2015-09-01,1.8046357615894
+"Seattle","4 Bedroom",2015-09-01,1.3681592039801
+"New York","All Homes",2015-09-01,4.375
+"Los Angeles","All Homes",2015-09-01,2.39664469742361
+"San Francisco","All Homes",2015-09-01,4.26001251564456
+"Seattle","All Homes",2015-09-01,2.0249766573296
+"New York","Condominium",2015-09-01,4.78582786722322
+"Los Angeles","Condominium",2015-09-01,2.44154858897154
+"San Francisco","Condominium",2015-09-01,4.6031746031746
+"Seattle","Condominium",2015-09-01,2.43478260869565
+"Los Angeles","Single Family Residence",2015-09-01,2.35194305755851
+"San Francisco","Single Family Residence",2015-09-01,3.81679389312977
+"Seattle","Single Family Residence",2015-09-01,1.66358024691358
+"Los Angeles","1 Bedroom",2015-10-01,2.68253968253968
+"San Francisco","1 Bedroom",2015-10-01,4.91794310722101
+"Seattle","1 Bedroom",2015-10-01,2.59043927648579
+"Los Angeles","2 Bedroom",2015-10-01,2.395
+"San Francisco","2 Bedroom",2015-10-01,4.32110311837635
+"Los Angeles","3 Bedroom",2015-10-01,2.23637370163016
+"San Francisco","3 Bedroom",2015-10-01,3.76965408805031
+"Seattle","3 Bedroom",2015-10-01,1.66203703703704
+"Los Angeles","4 Bedroom",2015-10-01,1.78370535714286
+"Seattle","4 Bedroom",2015-10-01,1.33762886597938
+"New York","All Homes",2015-10-01,4.28571428571429
+"Los Angeles","All Homes",2015-10-01,2.36888092281404
+"San Francisco","All Homes",2015-10-01,4.16367766618843
+"Seattle","All Homes",2015-10-01,1.99054621848739
+"New York","Condominium",2015-10-01,4.71819969021804
+"Los Angeles","Condominium",2015-10-01,2.42045454545455
+"San Francisco","Condominium",2015-10-01,4.52646239554318
+"Seattle","Condominium",2015-10-01,2.41935483870968
+"Los Angeles","Single Family Residence",2015-10-01,2.33739837398374
+"San Francisco","Single Family Residence",2015-10-01,3.5501066098081
+"Seattle","Single Family Residence",2015-10-01,1.64319248826291
+"Los Angeles","1 Bedroom",2015-11-01,2.71428571428571
+"San Francisco","1 Bedroom",2015-11-01,4.81834867799811
+"Seattle","1 Bedroom",2015-11-01,2.61928804569563
+"Los Angeles","2 Bedroom",2015-11-01,2.39961013645224
+"San Francisco","2 Bedroom",2015-11-01,4.32662835249042
+"Los Angeles","3 Bedroom",2015-11-01,2.19828544366803
+"San Francisco","3 Bedroom",2015-11-01,3.74567474048443
+"Seattle","3 Bedroom",2015-11-01,1.65390149418926
+"Los Angeles","4 Bedroom",2015-11-01,1.73095944609298
+"Seattle","4 Bedroom",2015-11-01,1.2775
+"New York","All Homes",2015-11-01,4.2875157629256
+"Los Angeles","All Homes",2015-11-01,2.33884768967484
+"San Francisco","All Homes",2015-11-01,4.14560161779575
+"Seattle","All Homes",2015-11-01,1.99101905796386
+"New York","Condominium",2015-11-01,4.70991117344554
+"Los Angeles","Condominium",2015-11-01,2.41578947368421
+"San Francisco","Condominium",2015-11-01,4.48825431034483
+"Seattle","Condominium",2015-11-01,2.4024024024024
+"Los Angeles","Single Family Residence",2015-11-01,2.28597200254875
+"San Francisco","Single Family Residence",2015-11-01,3.6
+"Seattle","Single Family Residence",2015-11-01,1.64179104477612
+"Los Angeles","1 Bedroom",2015-12-01,2.68433179723502
+"San Francisco","1 Bedroom",2015-12-01,4.72222222222222
+"Seattle","1 Bedroom",2015-12-01,2.6283185840708
+"Los Angeles","2 Bedroom",2015-12-01,2.35693376551585
+"San Francisco","2 Bedroom",2015-12-01,4.31909090909091
+"Los Angeles","3 Bedroom",2015-12-01,2.22
+"San Francisco","3 Bedroom",2015-12-01,4.04545454545455
+"Seattle","3 Bedroom",2015-12-01,1.63280890000658
+"Los Angeles","4 Bedroom",2015-12-01,1.72711571675302
+"Seattle","4 Bedroom",2015-12-01,1.30317130260885
+"New York","All Homes",2015-12-01,4.2404380887527
+"Los Angeles","All Homes",2015-12-01,2.34112623160731
+"San Francisco","All Homes",2015-12-01,4.15558510638298
+"Seattle","All Homes",2015-12-01,1.97520661157025
+"New York","Condominium",2015-12-01,4.67128027681661
+"Los Angeles","Condominium",2015-12-01,2.45454545454545
+"San Francisco","Condominium",2015-12-01,4.4253584200846
+"Seattle","Condominium",2015-12-01,2.38255033557047
+"Los Angeles","Single Family Residence",2015-12-01,2.25988700564972
+"San Francisco","Single Family Residence",2015-12-01,3.73073803730738
+"Seattle","Single Family Residence",2015-12-01,1.61964464464464
+"Los Angeles","1 Bedroom",2016-01-01,2.81045751633987
+"San Francisco","1 Bedroom",2016-01-01,5.07246376811594
+"Seattle","1 Bedroom",2016-01-01,2.65
+"Los Angeles","2 Bedroom",2016-01-01,2.44444444444444
+"San Francisco","2 Bedroom",2016-01-01,4.43888888888889
+"Los Angeles","3 Bedroom",2016-01-01,2.35166425470333
+"San Francisco","3 Bedroom",2016-01-01,3.88333333333333
+"Seattle","3 Bedroom",2016-01-01,1.76666666666667
+"Los Angeles","4 Bedroom",2016-01-01,1.86062246278755
+"Seattle","4 Bedroom",2016-01-01,1.43108089765632
+"New York","All Homes",2016-01-01,4.24748238392198
+"Los Angeles","All Homes",2016-01-01,2.43457100708622
+"San Francisco","All Homes",2016-01-01,4.14285714285714
+"Seattle","All Homes",2016-01-01,2.02059683821993
+"New York","Condominium",2016-01-01,4.68127490039841
+"Los Angeles","Condominium",2016-01-01,2.46305418719212
+"San Francisco","Condominium",2016-01-01,4.44876494341957
+"Seattle","Condominium",2016-01-01,2.36095005209909
+"Los Angeles","Single Family Residence",2016-01-01,2.39410681399632
+"San Francisco","Single Family Residence",2016-01-01,3.74384236453202
+"Seattle","Single Family Residence",2016-01-01,1.66992551210428
+"Los Angeles","1 Bedroom",2016-02-01,2.84226948025289
+"San Francisco","1 Bedroom",2016-02-01,5.1022066497689
+"Seattle","1 Bedroom",2016-02-01,2.66666666666667
+"Los Angeles","2 Bedroom",2016-02-01,2.46875
+"San Francisco","2 Bedroom",2016-02-01,4.45579481120465
+"Los Angeles","3 Bedroom",2016-02-01,2.31696014828545
+"San Francisco","3 Bedroom",2016-02-01,3.84423076923077
+"Seattle","3 Bedroom",2016-02-01,1.81363636363636
+"Los Angeles","4 Bedroom",2016-02-01,1.90114068441065
+"Seattle","4 Bedroom",2016-02-01,1.49659421233025
+"New York","All Homes",2016-02-01,4.28571428571429
+"Los Angeles","All Homes",2016-02-01,2.45750674114022
+"San Francisco","All Homes",2016-02-01,4.18726409351029
+"Seattle","All Homes",2016-02-01,2.05867182462927
+"New York","Condominium",2016-02-01,4.73684210526316
+"Los Angeles","Condominium",2016-02-01,2.48104873183243
+"San Francisco","Condominium",2016-02-01,4.5
+"Seattle","Condominium",2016-02-01,2.43401490469236
+"Los Angeles","Single Family Residence",2016-02-01,2.43270793535792
+"San Francisco","Single Family Residence",2016-02-01,3.54213366542134
+"Seattle","Single Family Residence",2016-02-01,1.69049564270153
+"Los Angeles","1 Bedroom",2016-03-01,2.86509209405454
+"San Francisco","1 Bedroom",2016-03-01,5.06923076923077
+"Seattle","1 Bedroom",2016-03-01,2.75933609958506
+"Los Angeles","2 Bedroom",2016-03-01,2.47711088504578
+"San Francisco","2 Bedroom",2016-03-01,4.42857142857143
+"Los Angeles","3 Bedroom",2016-03-01,2.30149597238205
+"San Francisco","3 Bedroom",2016-03-01,3.80769230769231
+"Seattle","3 Bedroom",2016-03-01,1.85576923076923
+"Los Angeles","4 Bedroom",2016-03-01,1.88850905442712
+"Seattle","4 Bedroom",2016-03-01,1.5831043956044
+"New York","All Homes",2016-03-01,4.36478554977065
+"Los Angeles","All Homes",2016-03-01,2.46693794506612
+"San Francisco","All Homes",2016-03-01,4.14216724825523
+"Seattle","All Homes",2016-03-01,2.11900253141492
+"New York","Condominium",2016-03-01,4.75718328682049
+"Los Angeles","Condominium",2016-03-01,2.48275862068966
+"San Francisco","Condominium",2016-03-01,4.47131021647212
+"Seattle","Condominium",2016-03-01,2.44199201419698
+"Los Angeles","Single Family Residence",2016-03-01,2.43988464951198
+"San Francisco","Single Family Residence",2016-03-01,3.59048230560516
+"Seattle","Single Family Residence",2016-03-01,1.77565099106102
+"Los Angeles","1 Bedroom",2016-04-01,2.81231862114215
+"San Francisco","1 Bedroom",2016-04-01,5.12046511627907
+"Seattle","1 Bedroom",2016-04-01,2.762982689747
+"Los Angeles","2 Bedroom",2016-04-01,2.48826291079812
+"San Francisco","2 Bedroom",2016-04-01,4.39
+"Los Angeles","3 Bedroom",2016-04-01,2.21392709686844
+"San Francisco","3 Bedroom",2016-04-01,3.85164835164835
+"Seattle","3 Bedroom",2016-04-01,1.79977477477477
+"Los Angeles","4 Bedroom",2016-04-01,1.86111307479051
+"Seattle","4 Bedroom",2016-04-01,1.49823263147187
+"New York","All Homes",2016-04-01,4.43609022556391
+"Los Angeles","All Homes",2016-04-01,2.43586889301175
+"San Francisco","All Homes",2016-04-01,4.07692307692308
+"Seattle","All Homes",2016-04-01,2.08718263281417
+"New York","Condominium",2016-04-01,4.79760646330414
+"Los Angeles","Condominium",2016-04-01,2.48867069486405
+"San Francisco","Condominium",2016-04-01,4.46862447481417
+"Seattle","Condominium",2016-04-01,2.44235588972431
+"Los Angeles","Single Family Residence",2016-04-01,2.33934611048478
+"San Francisco","Single Family Residence",2016-04-01,3.5740878629933
+"Seattle","Single Family Residence",2016-04-01,1.75438596491228
+"Los Angeles","1 Bedroom",2016-05-01,2.79333333333333
+"San Francisco","1 Bedroom",2016-05-01,5.03541076487252
+"Seattle","1 Bedroom",2016-05-01,2.87650085763293
+"Los Angeles","2 Bedroom",2016-05-01,2.46153846153846
+"San Francisco","2 Bedroom",2016-05-01,4.32503046387549
+"Los Angeles","3 Bedroom",2016-05-01,2.28083180631906
+"San Francisco","3 Bedroom",2016-05-01,4.07307692307692
+"Seattle","3 Bedroom",2016-05-01,1.81656219436294
+"Los Angeles","4 Bedroom",2016-05-01,1.87265917602996
+"Seattle","4 Bedroom",2016-05-01,1.41150442477876
+"New York","All Homes",2016-05-01,4.44875065946261
+"Los Angeles","All Homes",2016-05-01,2.36314088037516
+"San Francisco","All Homes",2016-05-01,4.01723484302539
+"Seattle","All Homes",2016-05-01,2.05142857142857
+"New York","Condominium",2016-05-01,4.76190476190476
+"Los Angeles","Condominium",2016-05-01,2.37240537240537
+"San Francisco","Condominium",2016-05-01,4.31495334385288
+"Seattle","Condominium",2016-05-01,2.42142857142857
+"Los Angeles","Single Family Residence",2016-05-01,2.34474503254883
+"San Francisco","Single Family Residence",2016-05-01,3.66978380233356
+"Seattle","Single Family Residence",2016-05-01,1.75547843729097
+"Los Angeles","1 Bedroom",2016-06-01,2.83088235294118
+"San Francisco","1 Bedroom",2016-06-01,4.9375
+"Seattle","1 Bedroom",2016-06-01,2.82951289398281
+"Los Angeles","2 Bedroom",2016-06-01,2.51780614423744
+"San Francisco","2 Bedroom",2016-06-01,4.44195316392626
+"Los Angeles","3 Bedroom",2016-06-01,2.25
+"San Francisco","3 Bedroom",2016-06-01,3.91566265060241
+"Seattle","3 Bedroom",2016-06-01,1.85185185185185
+"Los Angeles","4 Bedroom",2016-06-01,1.8722303316729
+"Seattle","4 Bedroom",2016-06-01,1.58536585365854
+"New York","All Homes",2016-06-01,4.3655997918293
+"Los Angeles","All Homes",2016-06-01,2.36199131183457
+"San Francisco","All Homes",2016-06-01,4.17234332425068
+"Seattle","All Homes",2016-06-01,2.08333333333333
+"New York","Condominium",2016-06-01,4.67706013363029
+"Los Angeles","Condominium",2016-06-01,2.37967914438503
+"San Francisco","Condominium",2016-06-01,4.50051282051282
+"Seattle","Condominium",2016-06-01,2.40384615384615
+"Los Angeles","Single Family Residence",2016-06-01,2.34644582470669
+"San Francisco","Single Family Residence",2016-06-01,3.57142857142857
+"Seattle","Single Family Residence",2016-06-01,1.85185185185185
+"Los Angeles","1 Bedroom",2016-07-01,2.78408772554606
+"San Francisco","1 Bedroom",2016-07-01,4.79967948717949
+"Seattle","1 Bedroom",2016-07-01,2.655
+"Los Angeles","2 Bedroom",2016-07-01,2.44380952380952
+"San Francisco","2 Bedroom",2016-07-01,4.27355184498042
+"Los Angeles","3 Bedroom",2016-07-01,2.2194950911641
+"San Francisco","3 Bedroom",2016-07-01,3.76425855513308
+"Seattle","3 Bedroom",2016-07-01,1.86567164179104
+"Los Angeles","4 Bedroom",2016-07-01,1.81112968096492
+"Seattle","4 Bedroom",2016-07-01,1.51515151515152
+"New York","All Homes",2016-07-01,4.39866369710468
+"Los Angeles","All Homes",2016-07-01,2.33552631578947
+"San Francisco","All Homes",2016-07-01,3.93791076845298
+"Seattle","All Homes",2016-07-01,2
+"New York","Condominium",2016-07-01,4.67706013363029
+"Los Angeles","Condominium",2016-07-01,2.42941457519463
+"San Francisco","Condominium",2016-07-01,4.20537010159652
+"Seattle","Condominium",2016-07-01,2.43478260869565
+"Los Angeles","Single Family Residence",2016-07-01,2.25360576923077
+"San Francisco","Single Family Residence",2016-07-01,3.47777777777778
+"Seattle","Single Family Residence",2016-07-01,1.81818181818182
+"Los Angeles","1 Bedroom",2016-08-01,2.8125
+"San Francisco","1 Bedroom",2016-08-01,4.79696737683089
+"Seattle","1 Bedroom",2016-08-01,2.79025772378615
+"Los Angeles","2 Bedroom",2016-08-01,2.47017314990512
+"San Francisco","2 Bedroom",2016-08-01,4.27500872143729
+"Los Angeles","3 Bedroom",2016-08-01,2.19688407049067
+"San Francisco","3 Bedroom",2016-08-01,3.9461511299435
+"Seattle","3 Bedroom",2016-08-01,1.83760683760684
+"Los Angeles","4 Bedroom",2016-08-01,1.76785714285714
+"Seattle","4 Bedroom",2016-08-01,1.47115384615385
+"New York","All Homes",2016-08-01,4.3739054290718
+"Los Angeles","All Homes",2016-08-01,2.33333333333333
+"San Francisco","All Homes",2016-08-01,3.95281816242814
+"Seattle","All Homes",2016-08-01,2.076
+"New York","Condominium",2016-08-01,4.66666666666667
+"Los Angeles","Condominium",2016-08-01,2.4375
+"San Francisco","Condominium",2016-08-01,4.2748597654258
+"Seattle","Condominium",2016-08-01,2.47484326087146
+"Los Angeles","Single Family Residence",2016-08-01,2.26818181818182
+"San Francisco","Single Family Residence",2016-08-01,3.38312139887642
+"Seattle","Single Family Residence",2016-08-01,1.83163265306122
+"Los Angeles","1 Bedroom",2016-09-01,2.90004805382028
+"San Francisco","1 Bedroom",2016-09-01,4.71564377070615
+"Seattle","1 Bedroom",2016-09-01,2.75131032784579
+"Los Angeles","2 Bedroom",2016-09-01,2.55982905982906
+"San Francisco","2 Bedroom",2016-09-01,4.13026211278793
+"Los Angeles","3 Bedroom",2016-09-01,2.29990800367985
+"San Francisco","3 Bedroom",2016-09-01,3.95411436541144
+"Seattle","3 Bedroom",2016-09-01,1.86542467948718
+"Los Angeles","4 Bedroom",2016-09-01,1.8983082517217
+"Seattle","4 Bedroom",2016-09-01,1.4046875
+"New York","All Homes",2016-09-01,4.28571428571429
+"Los Angeles","All Homes",2016-09-01,2.49328730341389
+"San Francisco","All Homes",2016-09-01,4
+"Seattle","All Homes",2016-09-01,2.09127127852227
+"New York","Condominium",2016-09-01,4.55597376855601
+"Los Angeles","Condominium",2016-09-01,2.55071717094975
+"San Francisco","Condominium",2016-09-01,4.24673285863631
+"Seattle","Condominium",2016-09-01,2.56813417190776
+"Los Angeles","Single Family Residence",2016-09-01,2.42805755395683
+"San Francisco","Single Family Residence",2016-09-01,3.29127811300055
+"Seattle","Single Family Residence",2016-09-01,1.74722222222222
+"Los Angeles","1 Bedroom",2016-10-01,2.77083333333333
+"San Francisco","1 Bedroom",2016-10-01,4.58333333333333
+"Seattle","1 Bedroom",2016-10-01,2.7244094488189
+"Los Angeles","2 Bedroom",2016-10-01,2.4362495822911
+"San Francisco","2 Bedroom",2016-10-01,4.16666666666667
+"Los Angeles","3 Bedroom",2016-10-01,2.1502688172043
+"San Francisco","3 Bedroom",2016-10-01,3.59319034317638
+"Seattle","3 Bedroom",2016-10-01,1.74348071283555
+"Los Angeles","4 Bedroom",2016-10-01,1.75252257036644
+"Seattle","4 Bedroom",2016-10-01,1.42441860465116
+"New York","All Homes",2016-10-01,4.30769230769231
+"Los Angeles","All Homes",2016-10-01,2.33333333333333
+"San Francisco","All Homes",2016-10-01,3.98729710656316
+"Seattle","All Homes",2016-10-01,2.06804733727811
+"New York","Condominium",2016-10-01,4.55207574654042
+"Los Angeles","Condominium",2016-10-01,2.46153846153846
+"San Francisco","Condominium",2016-10-01,4.32856514163247
+"Seattle","Condominium",2016-10-01,2.44930944440949
+"Los Angeles","Single Family Residence",2016-10-01,2.23039154250496
+"San Francisco","Single Family Residence",2016-10-01,3.24324324324324
+"Seattle","Single Family Residence",2016-10-01,1.73809523809524
+"Los Angeles","1 Bedroom",2016-11-01,2.76153846153846
+"San Francisco","1 Bedroom",2016-11-01,4.64880952380952
+"Seattle","1 Bedroom",2016-11-01,2.63657269248324
+"Los Angeles","2 Bedroom",2016-11-01,2.43084660519698
+"San Francisco","2 Bedroom",2016-11-01,4.18834955900754
+"Los Angeles","3 Bedroom",2016-11-01,2.2826313495898
+"San Francisco","3 Bedroom",2016-11-01,3.67951463240542
+"Seattle","3 Bedroom",2016-11-01,1.79577464788732
+"Los Angeles","4 Bedroom",2016-11-01,1.9629225736096
+"Seattle","4 Bedroom",2016-11-01,1.41796151471496
+"New York","All Homes",2016-11-01,4.30716226065063
+"Los Angeles","All Homes",2016-11-01,2.46487725524993
+"San Francisco","All Homes",2016-11-01,3.83045525902669
+"Seattle","All Homes",2016-11-01,2
+"New York","Condominium",2016-11-01,4.60170913157639
+"Los Angeles","Condominium",2016-11-01,2.51466890192791
+"San Francisco","Condominium",2016-11-01,4.18848167539267
+"Seattle","Condominium",2016-11-01,2.4065246159254
+"Los Angeles","Single Family Residence",2016-11-01,2.40983606557377
+"San Francisco","Single Family Residence",2016-11-01,3.06421725239617
+"Seattle","Single Family Residence",2016-11-01,1.765625
+"Los Angeles","1 Bedroom",2016-12-01,2.6875
+"San Francisco","1 Bedroom",2016-12-01,4.50666666666667
+"Seattle","1 Bedroom",2016-12-01,2.62975778546713
+"Los Angeles","2 Bedroom",2016-12-01,2.39043824701195
+"San Francisco","2 Bedroom",2016-12-01,4.15747278611356
+"Los Angeles","3 Bedroom",2016-12-01,2.19305611356636
+"San Francisco","3 Bedroom",2016-12-01,3.61547085201794
+"Seattle","3 Bedroom",2016-12-01,1.68826777087647
+"Los Angeles","4 Bedroom",2016-12-01,1.81701972936515
+"Seattle","4 Bedroom",2016-12-01,1.41150442477876
+"New York","All Homes",2016-12-01,4.19161676646707
+"Los Angeles","All Homes",2016-12-01,2.32110482957444
+"San Francisco","All Homes",2016-12-01,3.91102271760402
+"Seattle","All Homes",2016-12-01,2.03507340946166
+"New York","Condominium",2016-12-01,4.40750416572467
+"Los Angeles","Condominium",2016-12-01,2.41726618705036
+"San Francisco","Condominium",2016-12-01,4.21434977578475
+"Seattle","Condominium",2016-12-01,2.38291776938888
+"Los Angeles","Single Family Residence",2016-12-01,2.24791265253693
+"San Francisco","Single Family Residence",2016-12-01,3.15037593984962
+"Seattle","Single Family Residence",2016-12-01,1.75324675324675
+"Los Angeles","1 Bedroom",2017-01-01,2.81847133757962
+"San Francisco","1 Bedroom",2017-01-01,4.65384615384615
+"Seattle","1 Bedroom",2017-01-01,2.7327250183248
+"Los Angeles","2 Bedroom",2017-01-01,2.47272727272727
+"San Francisco","2 Bedroom",2017-01-01,4.20840074906367
+"Los Angeles","3 Bedroom",2017-01-01,2.30326295585413
+"San Francisco","3 Bedroom",2017-01-01,3.51095433919456
+"Seattle","3 Bedroom",2017-01-01,1.77590917655926
+"Los Angeles","4 Bedroom",2017-01-01,1.78595096090126
+"Seattle","4 Bedroom",2017-01-01,1.46559633027523
+"New York","All Homes",2017-01-01,4.37007874015748
+"Los Angeles","All Homes",2017-01-01,2.43161094224924
+"San Francisco","All Homes",2017-01-01,4.01069518716578
+"Seattle","All Homes",2017-01-01,2.04225352112676
+"New York","Condominium",2017-01-01,4.70723306544202
+"Los Angeles","Condominium",2017-01-01,2.50174270377524
+"San Francisco","Condominium",2017-01-01,4.30769230769231
+"Seattle","Condominium",2017-01-01,2.42024469067405
+"Los Angeles","Single Family Residence",2017-01-01,2.35166425470333
+"San Francisco","Single Family Residence",2017-01-01,3.12293984391791
+"Seattle","Single Family Residence",2017-01-01,1.8125
+"Los Angeles","1 Bedroom",2017-02-01,2.88571428571429
+"San Francisco","1 Bedroom",2017-02-01,4.6759813176985
+"Seattle","1 Bedroom",2017-02-01,2.92230768604163
+"Los Angeles","2 Bedroom",2017-02-01,2.56572919011028
+"San Francisco","2 Bedroom",2017-02-01,4.25968992248062
+"Los Angeles","3 Bedroom",2017-02-01,2.36814139617608
+"San Francisco","3 Bedroom",2017-02-01,3.69767441860465
+"Seattle","3 Bedroom",2017-02-01,1.7877358490566
+"Los Angeles","4 Bedroom",2017-02-01,1.87342352588351
+"Seattle","4 Bedroom",2017-02-01,1.41071428571429
+"New York","All Homes",2017-02-01,4.5632323299444
+"Los Angeles","All Homes",2017-02-01,2.48329048843188
+"San Francisco","All Homes",2017-02-01,3.96818928559095
+"Seattle","All Homes",2017-02-01,2.05707974889561
+"New York","Condominium",2017-02-01,4.88362250244142
+"Los Angeles","Condominium",2017-02-01,2.52720283855707
+"San Francisco","Condominium",2017-02-01,4.28510221569348
+"Seattle","Condominium",2017-02-01,2.43844591727455
+"Los Angeles","Single Family Residence",2017-02-01,2.43376463339495
+"San Francisco","Single Family Residence",2017-02-01,3.2708584236585
+"Seattle","Single Family Residence",2017-02-01,1.76516544117647
+"Los Angeles","1 Bedroom",2010-01-01,NA
+"San Francisco","1 Bedroom",2010-01-01,NA
+"Seattle","1 Bedroom",2010-01-01,NA
+"Los Angeles","2 Bedroom",2010-01-01,NA
+"San Francisco","2 Bedroom",2010-01-01,NA
+"Los Angeles","3 Bedroom",2010-01-01,NA
+"San Francisco","3 Bedroom",2010-01-01,NA
+"Seattle","3 Bedroom",2010-01-01,NA
+"Los Angeles","4 Bedroom",2010-01-01,NA
+"Seattle","4 Bedroom",2010-01-01,NA
+"New York","All Homes",2010-01-01,NA
+"Los Angeles","All Homes",2010-01-01,NA
+"San Francisco","All Homes",2010-01-01,NA
+"Seattle","All Homes",2010-01-01,NA
+"New York","Condominium",2010-01-01,NA
+"Los Angeles","Condominium",2010-01-01,NA
+"San Francisco","Condominium",2010-01-01,NA
+"Seattle","Condominium",2010-01-01,NA
+"Los Angeles","Single Family Residence",2010-01-01,NA
+"San Francisco","Single Family Residence",2010-01-01,NA
+"Seattle","Single Family Residence",2010-01-01,NA

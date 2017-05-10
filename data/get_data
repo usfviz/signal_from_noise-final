@@ -1,0 +1,9 @@
+#!/bin/zsh
+
+ZILLOW_URL="http://files.zillowstatic.com/research/public"
+REGIONS=('State' 'Metro' 'County' 'City' 'Zip' 'Neighborhood')
+
+for region in $REGIONS
+do
+    curl -O ""$ZILLOW_URL/$region.zip""
+done

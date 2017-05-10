@@ -1,0 +1,13 @@
+#!/bin/zsh
+
+ZILLOW_URL="http://files.zillowstatic.com/research/public"
+REGIONS=('State' 'Metro' 'City' 'Zip' 'Neighborhood')
+TYPES=('AllHomes' 'Condominum' 'SingleFamilyResidence' '1bedroom' '2bedroom' '3bedroom' '4bedroom' '5BedroomOrMore')
+
+for region in $REGIONS
+do
+    for type in $TYPES
+    do
+        curl -O ""$ZILLOW_URL/$region/$region\_Zhvi\_$type\.csv""
+    done
+done

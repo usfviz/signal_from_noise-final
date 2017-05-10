@@ -1,0 +1,309 @@
+"RegionName","HousingType","Time","Value"
+"New York","All Homes",2010-10-01,18.72
+"Los Angeles","All Homes",2010-10-01,15.15
+"San Francisco","All Homes",2010-10-01,18.35
+"Seattle","All Homes",2010-10-01,17.74
+"New York","All Homes",2010-11-01,18.72
+"Los Angeles","All Homes",2010-11-01,15.06
+"San Francisco","All Homes",2010-11-01,17.96
+"Seattle","All Homes",2010-11-01,17.7
+"New York","All Homes",2010-12-01,18.6
+"Los Angeles","All Homes",2010-12-01,15.01
+"San Francisco","All Homes",2010-12-01,17.6
+"Seattle","All Homes",2010-12-01,17.61
+"New York","All Homes",2011-01-01,18.71
+"Los Angeles","All Homes",2011-01-01,14.93
+"San Francisco","All Homes",2011-01-01,18.42
+"Seattle","All Homes",2011-01-01,17.47
+"New York","All Homes",2011-02-01,18.97
+"Los Angeles","All Homes",2011-02-01,14.77
+"San Francisco","All Homes",2011-02-01,19.05
+"Seattle","All Homes",2011-02-01,17.48
+"New York","All Homes",2011-03-01,19.12
+"Los Angeles","All Homes",2011-03-01,14.71
+"San Francisco","All Homes",2011-03-01,19.47
+"Seattle","All Homes",2011-03-01,17.52
+"New York","All Homes",2011-04-01,19.18
+"Los Angeles","All Homes",2011-04-01,14.68
+"San Francisco","All Homes",2011-04-01,19.74
+"Seattle","All Homes",2011-04-01,17.49
+"New York","All Homes",2011-05-01,19.17
+"Los Angeles","All Homes",2011-05-01,14.58
+"San Francisco","All Homes",2011-05-01,19.8
+"Seattle","All Homes",2011-05-01,17.4
+"New York","All Homes",2011-06-01,19.03
+"Los Angeles","All Homes",2011-06-01,14.46
+"San Francisco","All Homes",2011-06-01,19.65
+"Seattle","All Homes",2011-06-01,17.27
+"New York","All Homes",2011-07-01,18.94
+"Los Angeles","All Homes",2011-07-01,14.32
+"San Francisco","All Homes",2011-07-01,19.56
+"Seattle","All Homes",2011-07-01,17.07
+"New York","All Homes",2011-08-01,18.99
+"Los Angeles","All Homes",2011-08-01,14.23
+"San Francisco","All Homes",2011-08-01,19.3
+"Seattle","All Homes",2011-08-01,16.95
+"New York","All Homes",2011-09-01,18.99
+"Los Angeles","All Homes",2011-09-01,14.14
+"San Francisco","All Homes",2011-09-01,19.15
+"Seattle","All Homes",2011-09-01,16.85
+"New York","All Homes",2011-10-01,19.01
+"Los Angeles","All Homes",2011-10-01,14.17
+"San Francisco","All Homes",2011-10-01,19.01
+"Seattle","All Homes",2011-10-01,16.89
+"New York","All Homes",2011-11-01,19.03
+"Los Angeles","All Homes",2011-11-01,14.18
+"San Francisco","All Homes",2011-11-01,18.95
+"Seattle","All Homes",2011-11-01,16.92
+"New York","All Homes",2011-12-01,18.98
+"Los Angeles","All Homes",2011-12-01,14.21
+"San Francisco","All Homes",2011-12-01,18.81
+"Seattle","All Homes",2011-12-01,16.9
+"New York","All Homes",2012-01-01,18.97
+"Los Angeles","All Homes",2012-01-01,14.2
+"San Francisco","All Homes",2012-01-01,18.82
+"Seattle","All Homes",2012-01-01,16.86
+"New York","All Homes",2012-02-01,18.88
+"Los Angeles","All Homes",2012-02-01,14.14
+"San Francisco","All Homes",2012-02-01,18.91
+"Seattle","All Homes",2012-02-01,16.92
+"New York","All Homes",2012-03-01,18.89
+"Los Angeles","All Homes",2012-03-01,14.11
+"San Francisco","All Homes",2012-03-01,18.95
+"Seattle","All Homes",2012-03-01,17.03
+"New York","All Homes",2012-04-01,18.8
+"Los Angeles","All Homes",2012-04-01,14.13
+"San Francisco","All Homes",2012-04-01,19.07
+"Seattle","All Homes",2012-04-01,17.22
+"New York","All Homes",2012-05-01,18.75
+"Los Angeles","All Homes",2012-05-01,14.24
+"San Francisco","All Homes",2012-05-01,19.1
+"Seattle","All Homes",2012-05-01,17.47
+"New York","All Homes",2012-06-01,18.66
+"Los Angeles","All Homes",2012-06-01,14.27
+"San Francisco","All Homes",2012-06-01,19.16
+"Seattle","All Homes",2012-06-01,17.68
+"New York","All Homes",2012-07-01,18.61
+"Los Angeles","All Homes",2012-07-01,14.38
+"San Francisco","All Homes",2012-07-01,19.33
+"Seattle","All Homes",2012-07-01,17.81
+"New York","All Homes",2012-08-01,18.55
+"Los Angeles","All Homes",2012-08-01,14.56
+"San Francisco","All Homes",2012-08-01,19.66
+"Seattle","All Homes",2012-08-01,17.83
+"New York","All Homes",2012-09-01,18.54
+"Los Angeles","All Homes",2012-09-01,14.75
+"San Francisco","All Homes",2012-09-01,20.05
+"Seattle","All Homes",2012-09-01,17.89
+"New York","All Homes",2012-10-01,18.57
+"Los Angeles","All Homes",2012-10-01,14.92
+"San Francisco","All Homes",2012-10-01,20.63
+"Seattle","All Homes",2012-10-01,17.97
+"New York","All Homes",2012-11-01,18.5
+"Los Angeles","All Homes",2012-11-01,15.05
+"San Francisco","All Homes",2012-11-01,21.1
+"Seattle","All Homes",2012-11-01,18.19
+"New York","All Homes",2012-12-01,18.38
+"Los Angeles","All Homes",2012-12-01,15.15
+"San Francisco","All Homes",2012-12-01,21.26
+"Seattle","All Homes",2012-12-01,18.31
+"New York","All Homes",2013-01-01,18.49
+"Los Angeles","All Homes",2013-01-01,15.32
+"San Francisco","All Homes",2013-01-01,21.45
+"Seattle","All Homes",2013-01-01,18.35
+"New York","All Homes",2013-02-01,18.55
+"Los Angeles","All Homes",2013-02-01,15.5
+"San Francisco","All Homes",2013-02-01,21.34
+"Seattle","All Homes",2013-02-01,18.59
+"New York","All Homes",2013-03-01,18.48
+"Los Angeles","All Homes",2013-03-01,15.67
+"San Francisco","All Homes",2013-03-01,21.17
+"Seattle","All Homes",2013-03-01,18.63
+"New York","All Homes",2013-04-01,18.56
+"Los Angeles","All Homes",2013-04-01,15.94
+"San Francisco","All Homes",2013-04-01,21.04
+"Seattle","All Homes",2013-04-01,18.83
+"New York","All Homes",2013-05-01,18.54
+"Los Angeles","All Homes",2013-05-01,16.29
+"San Francisco","All Homes",2013-05-01,20.96
+"Seattle","All Homes",2013-05-01,18.89
+"New York","All Homes",2013-06-01,18.55
+"Los Angeles","All Homes",2013-06-01,16.58
+"San Francisco","All Homes",2013-06-01,21.21
+"Seattle","All Homes",2013-06-01,18.81
+"New York","All Homes",2013-07-01,18.49
+"Los Angeles","All Homes",2013-07-01,16.74
+"San Francisco","All Homes",2013-07-01,21.56
+"Seattle","All Homes",2013-07-01,18.72
+"New York","All Homes",2013-08-01,18.35
+"Los Angeles","All Homes",2013-08-01,16.98
+"San Francisco","All Homes",2013-08-01,21.73
+"Seattle","All Homes",2013-08-01,18.66
+"New York","All Homes",2013-09-01,18.24
+"Los Angeles","All Homes",2013-09-01,17.13
+"San Francisco","All Homes",2013-09-01,22.01
+"Seattle","All Homes",2013-09-01,18.56
+"New York","All Homes",2013-10-01,18.4
+"Los Angeles","All Homes",2013-10-01,17.19
+"San Francisco","All Homes",2013-10-01,22.08
+"Seattle","All Homes",2013-10-01,18.57
+"New York","All Homes",2013-11-01,18.57
+"Los Angeles","All Homes",2013-11-01,17.25
+"San Francisco","All Homes",2013-11-01,22.3
+"Seattle","All Homes",2013-11-01,18.41
+"New York","All Homes",2013-12-01,18.6
+"Los Angeles","All Homes",2013-12-01,17.41
+"San Francisco","All Homes",2013-12-01,22.16
+"Seattle","All Homes",2013-12-01,18.31
+"New York","All Homes",2014-01-01,18.67
+"Los Angeles","All Homes",2014-01-01,17.59
+"San Francisco","All Homes",2014-01-01,22.16
+"Seattle","All Homes",2014-01-01,18.39
+"New York","All Homes",2014-02-01,18.67
+"Los Angeles","All Homes",2014-02-01,17.74
+"San Francisco","All Homes",2014-02-01,22.02
+"Seattle","All Homes",2014-02-01,18.42
+"New York","All Homes",2014-03-01,18.72
+"Los Angeles","All Homes",2014-03-01,17.82
+"San Francisco","All Homes",2014-03-01,22.3
+"Seattle","All Homes",2014-03-01,18.67
+"New York","All Homes",2014-04-01,19.13
+"Los Angeles","All Homes",2014-04-01,17.87
+"San Francisco","All Homes",2014-04-01,22.39
+"Seattle","All Homes",2014-04-01,18.81
+"New York","All Homes",2014-05-01,19.34
+"Los Angeles","All Homes",2014-05-01,18.04
+"San Francisco","All Homes",2014-05-01,22.21
+"Seattle","All Homes",2014-05-01,18.84
+"New York","All Homes",2014-06-01,19.43
+"Los Angeles","All Homes",2014-06-01,18.03
+"San Francisco","All Homes",2014-06-01,22.17
+"Seattle","All Homes",2014-06-01,18.87
+"New York","All Homes",2014-07-01,19.16
+"Los Angeles","All Homes",2014-07-01,17.8
+"San Francisco","All Homes",2014-07-01,22
+"Seattle","All Homes",2014-07-01,18.43
+"New York","All Homes",2014-08-01,19.18
+"Los Angeles","All Homes",2014-08-01,17.74
+"San Francisco","All Homes",2014-08-01,21.55
+"Seattle","All Homes",2014-08-01,18.23
+"New York","All Homes",2014-09-01,19.03
+"Los Angeles","All Homes",2014-09-01,17.57
+"San Francisco","All Homes",2014-09-01,21.21
+"Seattle","All Homes",2014-09-01,17.93
+"New York","All Homes",2014-10-01,18.96
+"Los Angeles","All Homes",2014-10-01,17.39
+"San Francisco","All Homes",2014-10-01,20.82
+"Seattle","All Homes",2014-10-01,17.89
+"New York","All Homes",2014-11-01,19.13
+"Los Angeles","All Homes",2014-11-01,17.32
+"San Francisco","All Homes",2014-11-01,20.64
+"Seattle","All Homes",2014-11-01,17.94
+"New York","All Homes",2014-12-01,19.16
+"Los Angeles","All Homes",2014-12-01,17.2
+"San Francisco","All Homes",2014-12-01,20.37
+"Seattle","All Homes",2014-12-01,17.85
+"New York","All Homes",2015-01-01,19.23
+"Los Angeles","All Homes",2015-01-01,17.07
+"San Francisco","All Homes",2015-01-01,20.26
+"Seattle","All Homes",2015-01-01,17.76
+"New York","All Homes",2015-02-01,19.2
+"Los Angeles","All Homes",2015-02-01,17.11
+"San Francisco","All Homes",2015-02-01,20.23
+"Seattle","All Homes",2015-02-01,17.91
+"New York","All Homes",2015-03-01,19.39
+"Los Angeles","All Homes",2015-03-01,17.1
+"San Francisco","All Homes",2015-03-01,20.4
+"Seattle","All Homes",2015-03-01,17.92
+"New York","All Homes",2015-04-01,19.39
+"Los Angeles","All Homes",2015-04-01,17.16
+"San Francisco","All Homes",2015-04-01,20.79
+"Seattle","All Homes",2015-04-01,18.46
+"New York","All Homes",2015-05-01,19.56
+"Los Angeles","All Homes",2015-05-01,17.27
+"San Francisco","All Homes",2015-05-01,21.12
+"Seattle","All Homes",2015-05-01,18.33
+"New York","All Homes",2015-06-01,19.68
+"Los Angeles","All Homes",2015-06-01,17.23
+"San Francisco","All Homes",2015-06-01,21.25
+"Seattle","All Homes",2015-06-01,18.28
+"New York","All Homes",2015-07-01,19.92
+"Los Angeles","All Homes",2015-07-01,17.26
+"San Francisco","All Homes",2015-07-01,21.12
+"Seattle","All Homes",2015-07-01,18.16
+"New York","All Homes",2015-08-01,19.75
+"Los Angeles","All Homes",2015-08-01,17.25
+"San Francisco","All Homes",2015-08-01,21.09
+"Seattle","All Homes",2015-08-01,18.07
+"New York","All Homes",2015-09-01,19.83
+"Los Angeles","All Homes",2015-09-01,17.32
+"San Francisco","All Homes",2015-09-01,21.04
+"Seattle","All Homes",2015-09-01,18.07
+"New York","All Homes",2015-10-01,19.71
+"Los Angeles","All Homes",2015-10-01,17.35
+"San Francisco","All Homes",2015-10-01,20.64
+"Seattle","All Homes",2015-10-01,18.28
+"New York","All Homes",2015-11-01,19.61
+"Los Angeles","All Homes",2015-11-01,17.32
+"San Francisco","All Homes",2015-11-01,20.62
+"Seattle","All Homes",2015-11-01,18.4
+"New York","All Homes",2015-12-01,18.77
+"Los Angeles","All Homes",2015-12-01,17.32
+"San Francisco","All Homes",2015-12-01,20.71
+"Seattle","All Homes",2015-12-01,18.51
+"New York","All Homes",2016-01-01,18.89
+"Los Angeles","All Homes",2016-01-01,17.27
+"San Francisco","All Homes",2016-01-01,20.61
+"Seattle","All Homes",2016-01-01,18.61
+"New York","All Homes",2016-02-01,19
+"Los Angeles","All Homes",2016-02-01,17.11
+"San Francisco","All Homes",2016-02-01,20.62
+"Seattle","All Homes",2016-02-01,18.75
+"New York","All Homes",2016-03-01,19.23
+"Los Angeles","All Homes",2016-03-01,17.05
+"San Francisco","All Homes",2016-03-01,20.91
+"Seattle","All Homes",2016-03-01,18.88
+"New York","All Homes",2016-04-01,19.26
+"Los Angeles","All Homes",2016-04-01,17.07
+"San Francisco","All Homes",2016-04-01,21.09
+"Seattle","All Homes",2016-04-01,19
+"New York","All Homes",2016-05-01,18.77
+"Los Angeles","All Homes",2016-05-01,17.12
+"San Francisco","All Homes",2016-05-01,20.96
+"Seattle","All Homes",2016-05-01,19.32
+"New York","All Homes",2016-06-01,18.99
+"Los Angeles","All Homes",2016-06-01,17.07
+"San Francisco","All Homes",2016-06-01,20.91
+"Seattle","All Homes",2016-06-01,19.25
+"New York","All Homes",2016-07-01,19.36
+"Los Angeles","All Homes",2016-07-01,17.07
+"San Francisco","All Homes",2016-07-01,20.68
+"Seattle","All Homes",2016-07-01,19.53
+"New York","All Homes",2016-08-01,19.68
+"Los Angeles","All Homes",2016-08-01,17.07
+"San Francisco","All Homes",2016-08-01,20.57
+"Seattle","All Homes",2016-08-01,19.35
+"New York","All Homes",2016-09-01,19.94
+"Los Angeles","All Homes",2016-09-01,17.18
+"San Francisco","All Homes",2016-09-01,20.61
+"Seattle","All Homes",2016-09-01,19.51
+"New York","All Homes",2016-10-01,20.14
+"Los Angeles","All Homes",2016-10-01,17.24
+"San Francisco","All Homes",2016-10-01,20.76
+"Seattle","All Homes",2016-10-01,19.6
+"New York","All Homes",2016-11-01,20.4
+"Los Angeles","All Homes",2016-11-01,17.41
+"San Francisco","All Homes",2016-11-01,21.39
+"Seattle","All Homes",2016-11-01,19.78
+"New York","All Homes",2016-12-01,20.71
+"Los Angeles","All Homes",2016-12-01,17.54
+"San Francisco","All Homes",2016-12-01,21.92
+"Seattle","All Homes",2016-12-01,19.97
+"New York","All Homes",2017-01-01,20.78
+"Los Angeles","All Homes",2017-01-01,17.6
+"San Francisco","All Homes",2017-01-01,22.11
+"Seattle","All Homes",2017-01-01,20.04
+"New York","All Homes",2017-02-01,21.13
+"Los Angeles","All Homes",2017-02-01,17.64
+"San Francisco","All Homes",2017-02-01,22.16
+"Seattle","All Homes",2017-02-01,20.12
